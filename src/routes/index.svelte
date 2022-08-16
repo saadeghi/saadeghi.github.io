@@ -3,7 +3,7 @@
   import { Head } from 'svead'
 
   let title = 'Pouya Saadeghi'
-  let description = 'Pouya Saadeghi – UI designer and front-end developer'
+  let description = 'Pouya Saadeghi – front-end developer in Istanbul'
   let url = $page.url.toString()
 </script>
 
@@ -32,7 +32,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <h2 class="font-title font-bold text-2xl text-blue-600">Projects</h2>
@@ -112,7 +112,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <h2 class="font-title font-bold text-2xl text-blue-600">Experience</h2>
@@ -121,13 +121,13 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Dec 2020 – Present</span>
+          <span class="text-black/60">Dec 2020 – Present</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Open-source contributor</h2>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Part-time</span>
+          <span class="text-black/60 text-sm">Part-time</span>
         </div>
         <div class="col-span-3">
           <p>
@@ -144,14 +144,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Dec 2015 – Present</span>
+          <span class="text-black/60">Dec 2015 – Present</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Product designer, web developer</h2>
           <span>at <a class="underline" rel="nofollow" target="_blank" href="https://manasky.com/">ManaSky</a> (Istanbul, Turkey)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Part-time</span>
+          <span class="text-black/60 text-sm">Part-time</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -164,14 +164,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Apr 2014 – Jun 2022</span>
+          <span class="text-black/60">Apr 2014 – Jun 2022</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Co-founder, product designer, front-end developer</h2>
           <span>at <a class="underline" rel="nofollow" target="_blank" href="https://atbox.io/">Atbox.io</a> (Rasht, Iran)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Self-employed</span>
+          <span class="text-black/60 text-sm">Self-employed</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -185,14 +185,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Jan 2020 – Sep 2021</span>
+          <span class="text-black/60">Jan 2020 – Sep 2021</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">UI designer, front-end developer</h2>
           <span>at Dowuz Startup (Rasht, Iran)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Full-time</span>
+          <span class="text-black/60 text-sm">Full-time</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -205,14 +205,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Mar 2017 – Jan 2019</span>
+          <span class="text-black/60">Mar 2017 – Jan 2019</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Web Developer</h2>
           <span>at <a class="underline" rel="nofollow" target="_blank" href="https://markitdone.com/">Mark It Done (Los Angeles, United States)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Remote contractor</span>
+          <span class="text-black/60 text-sm">Remote contractor</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -227,14 +227,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Jun 2016 – Oct 2017</span>
+          <span class="text-black/60">Jun 2016 – Oct 2017</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Co-founder, UI designer, front-end developer</h2>
           <span>at Gametime.ir (Anzali, Iran)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Remote contractor</span>
+          <span class="text-black/60 text-sm">Remote contractor</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -245,14 +245,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Oct 2014 – Jan 2016</span>
+          <span class="text-black/60">Oct 2014 – Jan 2016</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">UI designer, Web developer</h2>
           <span>at Arsess (Rasht, Iran)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Full-time</span>
+          <span class="text-black/60 text-sm">Full-time</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -267,14 +267,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Jan 2009 – Dec 2015</span>
+          <span class="text-black/60">Jan 2009 – Dec 2015</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Founder, Designer, Developer</h2>
           <span>at Pasargad Graphic (Rasht, Iran)</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm">Self-employed</span>
+          <span class="text-black/60 text-sm">Self-employed</span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -292,7 +292,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <h2 class="font-title font-bold text-2xl text-blue-600">Education</h2>
@@ -301,14 +301,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Jan 2012 – Jan 2015</span>
+          <span class="text-black/60">Jan 2012 – Jan 2015</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">B.Sc. in Software Engineering</h2>
           <span>at Jabir ibn Hayyan University</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm"></span>
+          <span class="text-black/60 text-sm"></span>
         </div>
         <div class="col-span-3">
           <p>Rasht, Iran</p>
@@ -317,14 +317,14 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50">Jan 2009 – Jan 2012</span>
+          <span class="text-black/60">Jan 2009 – Jan 2012</span>
         </div>
         <div class="col-span-3">
           <h2 class="font-bold inline">Associate's degree in Software Engineering</h2>
           <span>at Shahid Chamran University</span>
         </div>
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50 text-sm"></span>
+          <span class="text-black/60 text-sm"></span>
         </div>
         <div class="col-span-3">
           <p>Rasht, Iran</p>
@@ -339,7 +339,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <h2 class="font-title font-bold text-2xl text-blue-600">Skills and Tech Stack</h2>
@@ -348,7 +348,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
@@ -369,7 +369,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <h2 class="font-title font-bold text-2xl text-blue-600">Contact Info</h2>
@@ -378,7 +378,7 @@
 
       <div class="grid lg:grid-cols-4 gap-x-10 items-baseline print:grid-cols-4">
         <div class="lg:text-right print:text-right">
-          <span class="text-black/50"></span>
+          <span class="text-black/60"></span>
         </div>
         <div class="col-span-3">
           <ul class="list-disc mx-4 text-sm">
