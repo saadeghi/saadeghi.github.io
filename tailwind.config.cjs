@@ -1,15 +1,19 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
-  content: ['./src/routes/**/*.{svelte,js,ts}'],
-  plugins: [
-    require('@tailwindcss/typography'),
-    require('daisyui')
+  content: [
+    './src/app.html',
+    './src/routes/**/*.svelte'
   ],
+  // plugins: [
+  //   require('@tailwindcss/typography'),
+  //   require('daisyui')
+  // ],
   theme: {
     extend: {
       fontFamily: {
-        'sans': ['Montserrat', ...defaultTheme.fontFamily.sans],
+        'title': ['Montserrat Alternates', ...defaultTheme.fontFamily.sans],
+        'sans': ['Inter', ...defaultTheme.fontFamily.sans],
       },
     }
   },
@@ -17,5 +21,5 @@ module.exports = {
   //   themes:[
   //     "lofi"
   //   ]
-  // }
-};
+  // },
+}
