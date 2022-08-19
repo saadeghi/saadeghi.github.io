@@ -24,6 +24,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
-          cname: saadeghi.com
+          cname: saadeghi.comx
+          publish_branch: gh-pages
 
 
