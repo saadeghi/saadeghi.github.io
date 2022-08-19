@@ -1,12 +1,5 @@
 # Workflow to build and deploy to your GitHub Pages repo.
 
-# Edit your project details here.
-# Remember to add API_TOKEN_GITHUB in repo Settings > Secrets as well!
-env:
-  githubEmail: pouya.saadeghi@gmail.com
-  actorUser: saadeghi
-  deployToRepo: saadeghi.github.io
-
 name: Github Pages CI
 
 on:
@@ -37,16 +30,10 @@ jobs:
           npm run build
           touch ./build/.nojekyll
 
-      # Push to your pages repo
-      - name: Push to pages repo
-        uses: cpina/github-action-push-to-another-repository@main
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.API_TOKEN_GITHUB }}
+      # Deploy
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          source-directory: 'build'
-          destination-repository-username: ${{ env.actorUser }}
-          destination-repository-name: ${{ env.deployToRepo }}
-          user-name: ${{ env.actorUser }}
-          user-email: ${{ env.githubEmail }}
-          commit-message: Deploy ORIGIN_COMMIT
-          target-branch: gh-pages
+          github_token: ${{ secrets.API_TOKEN_GITHUB }}
+          publish_dir: ./build
+          cname: saadeghi.com
