@@ -1,37 +1,19 @@
-# Workflow to build and deploy to your GitHub Pages repo.
-
-name: Github Pages CI
+name: Deploy to GitHub Pages
 
 on:
-  # Triggers the workflow on push and pull request events but only for the main branch
   push:
     branches: [master]
   pull_request:
     branches: [master]
 
-  # Allows you to run this workflow manually from the Actions tab.
-  workflow_dispatch:
-
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
-      # Install dependencies with npm
       - name: Install dependencies
         run: npm ci
-
-      # Build the project and add .nojekyll file to supress default behaviour
-      - name: Build
-        run: |
-          npm run build
-          touch ./build/.nojekyll
-
-      # Deploy
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.API_TOKEN_GITHUB }}
