@@ -25,7 +25,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           email: pouya.saadeghi@gmail.com
-          build_dir: build
+          build_dir: ./build
           branch: gh-pages
           cname: saadeghi.com
 
