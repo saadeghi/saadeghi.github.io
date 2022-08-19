@@ -19,15 +19,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Deploy to GitHub Pages
-        uses: Cecilapp/GitHub-Pages-deploy@v3
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          email: pouya.saadeghi@gmail.com
-          build_dir: ./build
-          branch: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build
           cname: saadeghi.com
-
 
 
