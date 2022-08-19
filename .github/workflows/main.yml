@@ -21,8 +21,9 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: Cecilapp/GitHub-Pages-deploy@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           email: pouya.saadeghi@gmail.com
           build_dir: build
           branch: gh-pages
