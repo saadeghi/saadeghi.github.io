@@ -9,14 +9,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: '14'
 
       - name: Install dependencies
         run: npm ci
-        
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
+          cname: saadeghi.com
           github_token: ${{ secrets.API_TOKEN_GITHUB }}
           publish_dir: ./build
-          cname: saadeghi.com
+
+
+
