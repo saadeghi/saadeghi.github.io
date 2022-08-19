@@ -20,11 +20,13 @@ jobs:
         run: npm ci
 
       - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+        uses: Cecilapp/GitHub-Pages-deploy@v3
         with:
-          cname: saadeghi.com
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
+          email: pouya.saadeghi@gmail.com
+          build_dir: build
+          branch: gh-pages
+          cname: saadeghi.com
 
 
 
