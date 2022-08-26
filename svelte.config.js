@@ -1,6 +1,6 @@
-import adapter from '@sveltejs/adapter-static';
+import adapter from '@sveltejs/adapter-static'
 
-const config = {
+export default {
   kit: {
     adapter: adapter({
       precompress: true,
@@ -13,6 +13,5 @@ const config = {
       default: true
     },
   },
-};
+}
 
-export default config;
