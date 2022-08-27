@@ -9,6 +9,7 @@
     "@sveltejs/kit": "^1.0.0-next.423",
     "autoprefixer": "^10.4.8",
     "daisyui": "^2.24.0",
+    "js-yaml": "^4.1.0",
     "postcss": "^8.4.16",
     "postcss-dropunusedvars": "^1.2.1",
     "svead": "^0.0.3",

@@ -5,6 +5,9 @@ export default {
     adapter: adapter({
       precompress: true,
     }),
+    alias: {
+      '@src': 'src',
+    },
     browser: {
       hydrate: false,
       router: false,
