@@ -2,6 +2,9 @@
 
 This is a simple SvelteKit template that reads resume data from a YAML file and makes a resume template.
 
+## Demo
+See it online: https://saadeghi.com
+
 ## Features
 - Minimal
 - Fast
