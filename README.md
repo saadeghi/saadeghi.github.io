@@ -3,6 +3,7 @@
 This is a simple SvelteKit template that reads resume data from a YAML file and makes a resume.
 
 ## Demo
+
 See it online: https://saadeghi.com
 
 ## Features
@@ -21,4 +22,5 @@ See it online: https://saadeghi.com
 npm install
 npm run dev
 ```
+
 Edit `src/data/resume.yml` file and put your own data
