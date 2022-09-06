@@ -2,7 +2,8 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "prettier": "prettier --write '**/*.{js,svelte,md,json,html,css}'"
   },
   "devDependencies": {
     "@sveltejs/adapter-static": "1.0.0-next.39",
@@ -12,6 +13,9 @@
     "js-yaml": "^4.1.0",
     "postcss": "^8.4.16",
     "postcss-dropunusedvars": "^1.2.1",
+    "prettier": "^2.7.1",
+    "prettier-plugin-svelte": "^2.7.0",
+    "prettier-plugin-tailwindcss": "^0.1.13",
     "svead": "^0.0.3",
     "svelte": "^3.49.0",
     "svelte-markdown": "^0.2.3",

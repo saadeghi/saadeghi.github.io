@@ -1,4 +1,4 @@
-import adapter from '@sveltejs/adapter-static'
+import adapter from "@sveltejs/adapter-static"
 
 export default {
   kit: {
@@ -6,15 +6,14 @@ export default {
       precompress: true,
     }),
     alias: {
-      '@src': 'src',
+      "@src": "src",
     },
     browser: {
       hydrate: false,
       router: false,
     },
     prerender: {
-      default: true
+      default: true,
     },
   },
 }
-
