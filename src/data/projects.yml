@@ -1,0 +1,847 @@
+---
+- title: daisyUI
+  thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.jpg
+  date: '2020-12-01'
+  url: https://github.com/saadeghi/daisyui
+  content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 20,000 open-source projects
+  photos:
+    - /projects/h1h3xN9FXL97OVPafQGAXbBtSmwSu2oI.png
+  tags:
+  - Design System
+  - Tailwind CSS
+  - UI library
+  - UI component
+  - DaisyUI
+  - CSS
+  tools:
+  - Tailwind CSS
+  - PostCSS
+- title: Atbox.io
+  thumb: /projects/HPUlWrwNhUZaEDQH0UZTIXWDizmTO8k5.jpg
+  date: '2014-04-01'
+  url: https://atbox.io
+  content: Atbox was a resume builder and portfolio hosting startup, successfully provided services to more than 120K users in a 8-year period and finally retired in 2022 June.
+  photos:
+    - /projects/u8KCaZLWD0i9sG8JIlc7QhynoTBBDCiE.jpg
+  tags:
+  - resume
+  - startup
+  - portfolio
+  rools:
+  - Laravel
+  - PHP
+  - Sass
+  - Grunt
+- title: Lorem.space
+  thumb: /projects/DllWXaxY0E0D6yum4l2gO1rauIhRqQRQ.jpg
+  date: '2021-10-01'
+  url: https://lorem.space
+  content: Placeholder image generator for developers and designers with open-source API
+  photos:
+    - /projects/QrXBFxUlSkx7GhQuQSJtyW0dpiH9Aeh3.jpg
+  tags:
+  - image generator
+  tools:
+  - Tailwind CSS
+  - Astro
+  - daisyUI
+- title: CryptoMeme.wtf
+  thumb: /projects/9WbTYihknrR0SiIm3au1bsdxF1cnbEMB.jpg
+  date: '2021-11-14'
+  url: https://cryptomeme.wtf
+  content: Open-source meme generator based on current crypto price
+  photos:
+    - /projects/BReDoXT8fFUvxYroL1XdcTvR09x0TKdZ.jpg
+  tags:
+  - meme
+  - cryptocurrency
+  - Bitcoin
+  tools:
+  - Svelte
+  - SvelteKit
+  - Tailwind CSS
+  - daisyUI
+- title: CSS Theme-Change
+  thumb: /projects/fzXlsF27LdLOv4EXyc3FCAlI8gU4rKmU.jpg
+  date: '2020-11-01'
+  url: http://github.com/saadeghi/theme-change
+  content: |-
+    A JavaScript package to handle CSS theming. 
+    Open source Node.js package with more than 80,000 NPM downloads
+  photos:
+    - /projects/8u0D13zR8xojpd2R3z1GwETxbc857Bob.jpg
+  tags:
+  - css
+  - javaScript
+  - dark mode
+  tools:
+  - javascript
+- title: Tailwind docs CLI
+  thumb: /projects/BVZyEPlxzLCBKECobcL89z57vlZ4Mcqn.jpg
+  date: '2020/12/29'
+  url: https://github.com/saadeghi/tailwindcss-document-cli
+  content: Node.js Command Line app to search in Tailwind CSS documentation
+  photos:
+    - /projects/dIhy2b4bj3vixdc20lRPqanLZazY6L4K.jpg
+  tags:
+  - CLI
+  - Tailwind CSS
+  - Documents
+  tools:
+  - Node.js
+- title: Game store UI
+  thumb: /projects/VRPvLHSwBsadRUi9ob7dM3epEOzqLXNl.jpg
+  date: '2020-09-01'
+  content: UI for an online game platform
+  photos:
+    - /projects/ibT4Ao7EGRb1LgzZ7VNWc53LdVYGdp6V.png
+  tags:
+  - Web Design
+  - UI Design
+  tools:
+  - sass
+  - Sketch App
+- title: Marketinja
+  thumb: /projects/msED8V9jcKOrprhjBlzRDXRl2zJoKgLL.jpg
+  date: '2020-01-01'
+  url: http://marketinja.com
+  content: 'Marketinja is a creative asset marketplace made for [Ponisha](https://ponisha.ir) users'
+  photos:
+    - /projects/HdiAatkeRr6PDydbU3TuKlOizaDLkWJo.png
+    - /projects/j9w7pTh6C0fQ1gx16kbxm9raa2mOCnBp.png
+    - /projects/i1peHk7jQrUOzMETCYGAUrYesRoBDoVQ.png
+    - /projects/50vAA3kwyTKYowHXiCUy33jifKHjzIKK.png
+    - /projects/kH8uD8NvB3v5pek0zRtNd8AmJjh53TuW.png
+  tags:
+  - Web Development
+  - Web Design
+  - responsive
+  - Marketplace
+  - Wordpress theme
+  - Wordpress
+  tools:
+  - Sketch App
+  - PostCSS
+  - vscode
+  - Tailwind CSS
+  - wordpress
+- title: Wymara Resort & Villas
+  thumb: /projects/8XURrtdQ7gRkkBFdOALZujvYhrbHKITS.jpg
+  date: '2018-05-01'
+  url: http://wymararesortandvillas.com
+  content: Luxury resort and villas in the Caribbean
+  photos:
+    - /projects/X4TevYPjmmMYK443MOHzwslczQsIzo6i.jpg
+    - /projects/emeAVicLAnkfE3tYobIohBY9vdtvXAiP.png
+    - /projects/R1nRkUvfTrDdtFNPlueaU4zWO6mjOWRI.jpg
+    - /projects/tiBLUojCk9YIY2mGWYgopfTqsylQC3NJ.png
+    - /projects/z9lfFnWCErKcIdhIye5fgpJGjhE4h1sB.png
+    - /projects/h3gqQYC5gMW4rBMLd1mPhg6mUfWfXFdh.jpg
+    - /projects/h2xf051r2Rk0isehwOLE9wCaWq7mn5y7.jpg
+    - /projects/l83tYxjhfNXMjCNSPC1unt75v8NywswE.png
+  tags:
+  - Web Development
+  tools:
+  - wordpress
+- title: Gjusta Goods
+  thumb: /projects/s9H2nPxED5JqG1vxOjEvCHsRrzd8H8l6.jpg
+  date: '2017-10-01'
+  url: https://gjustagoods.com
+  content: Unique Homeware, Ceramics, Apparel and Gifts - Venice, California
+  photos:
+    - /projects/ysuoJtKn1N04cksgp9vWv4tBfVIMpl6T.png
+    - /projects/oZwuVj4gm1JWlLIKmsak9CyQ8R5LPeAH.jpg
+    - /projects/vdvG3PqMA0zAhzSmZQuIgm1sIKZTxMnb.jpg
+    - /projects/dNfrbQqsKV0jnEeCYwK2SNQvKJJThSFy.png
+  tags:
+  - Web Development
+  tools:
+  - Shopify
+- title: EVO Events
+  thumb: /projects/0Vn2Wxs9GPjPvvOxzq7AVVnJDrcKVmIl.jpg
+  date: '2017-07-01'
+  url: http://evoeventsgroup.com
+  content: A leading event management company in central California
+  photos:
+    - /projects/T0EW04fehJFfWKOHII6l5LVUdyMgzHFH.jpg
+    - /projects/182TGzH7NK0A1gOzHhgS8IOlXVzjWxi5.jpg
+    - /projects/PwjBxeVZa80zpxTse3JoAgHBauI3bb6R.jpg
+    - /projects/MrpVyrFu8Vwo019mFe94oycU6G3iZl4x.jpg
+    - /projects/0ttOcyDUu2WcI6m5oAPkDDmvV3xByYFL.jpg
+  tags:
+  - Web Development
+  tools:
+  - wordpress
+- title: Imagination Gate logo
+  thumb: /projects/hni5StMM3Ybj1qUKg3X5YR9k3mUbUiC4.jpg
+  date: '2016-03-01'
+  content: ''
+  photos:
+    - /projects/qPL5ULaSeIOuzQaC7y0B1xBwcIIgKSC1.png
+    - /projects/y1xqRlKrnvoWYEf9v9PAupwyVQ1KxwCv.png
+    - /projects/sF9Lub3m8jBIISBCKuzQ61HegzAn6v9U.png
+    - /projects/KkSpRqFdypX4UGjhpXYhuRiekwnqnKb2.png
+  tags:
+  - gate
+  - imagination
+  - logo
+  - Logo design
+  tools:
+  - Adobe Illustrator
+  - Adobe Photoshop
+- title: Gametime
+  thumb: /projects/eHhV64xyJhe3RbzefKbZOWIeQdMDNEXj.jpg
+  date: '2016-12-01'
+  url: http://gametime.ir
+  content: |-
+    The Gametime.ir was an Android game review media that was launched in Iran Market with bellow features:
+
+    - Introduce & review the best Android games
+    - Categorize & rate the games
+    - Smart search to suggest the best games for the user
+    - A community to put comments by the users
+
+    It was developed & implemented using WordPress for the backend & an React native application for the Android.
+  photos:
+    - /projects/pWZBvp4gJmeW7NINJwsojQKmzkT2nQfj.jpg
+    - /projects/QUo8EMURET2TGtMyicanboj6m8XSne2l.png
+    - /projects/oCzcjNYHtzZYuh5TYN8CgPc4av320GfQ.png
+    - /projects/37qGgsOzZVsDZJHnucVZ5cBLTKuBnt0J.png
+    - /projects/YrDyZxCfA4I1M6NaRrcQoizGC1DoUQXc.png
+    - /projects/6tdA3Jwl79zaODhljA5S77HStoYWhxwr.png
+    - /projects/yunxwD1D96p5F5VgAna12vXmAaLOoec4.png
+    - /projects/uKoJUIkRkbM9A3Yc5Lu0AEkq8qb8PR3d.png
+    - /projects/ycVhUUwDG4EOF1Mb1ORje5yNxxYapkY8.png
+    - /projects/z7rUMGEvt2rIsSJxeHO2kcaAs0U29JlC.png
+    - /projects/VqbhDK4OgfWunAxjENx7dBD92VubIHny.png
+  tags:
+  - Mobile game
+  - Mobile app
+  - Review
+  - GameTime
+  - Android
+  - Game
+  tools:
+  - react native
+  - Android Studio
+  - wordpress
+  - Illustrator
+  - Photoshop
+- title: Iran TechHub
+  thumb: /projects/HgvbVrfthET0WyVqURF8JCRE03Steg7V.jpg
+  date:
+  url: http://irantechhub.ir
+  content: Official website for registering and valuation of innovative tech by Ministry of Science, Research and Technology of Iran
+  photos:
+    - /projects/ksSxuRulpyWqKj9ErIWE77e9Hpl3FSz5.png
+    - /projects/ozTo056LrLZpt6e2ReRNKCbaQS2oRP36.png
+    - /projects/M7HMjYXNlnYVNBW2wriPp8Ft3oyM8Lsd.png
+    - /projects/Ez2wdKzuQKbRaUxxjoKrp8dJWMKq7Yl7.png
+    - /projects/CL4TconOQo5Tpy5rnOjUY8AUcDuFl08g.png
+    - /projects/9Gpt9poCZlJtuezjBwuVG6BQlXo8IF2T.png
+    - /projects/YDeYLBc2rYi6ffOUrCgmo0l8eSU5y7ym.png
+  tags:
+  - Web Development
+  - Web Design
+  tools:
+  - Laravel
+  - Sublime Text
+  - Adobe Photoshop
+- title: FilmDown
+  thumb: /projects/pQrERhBPJZj6gKrJx4oY0O5ZJvujIg89.jpg
+  date: '2014-03-01'
+  content: FilmDown was a movie directory and download database, for premium users
+    based in Iran.
+  photos:
+    - /projects/p9mxvJeH0bp9eykNcgrvcYfmEexvEDxY.png
+    - /projects/t8v59521dE0tqmB2QmMdDoY9XJS9but0.png
+    - /projects/K9ZqZdOuUqNsOJHfNa2taz8blvfxWSgQ.png
+    - /projects/TdNiT2YxQPs97F8YnMrw1y6KshVlB0lC.png
+    - /projects/psv33R3P0XPXisj7UpK1thbGHZo26eAV.png
+    - /projects/FQvmccG9ij7Z9kCx35Rj7yTBl3vxI4WJ.png
+    - /projects/eBoc0ihQEzl1wiJcKE9RDjSv5n7cun86.png
+    - /projects/XYTT4pbFTRGNAq1floOwwuanMviNAQ7s.png
+    - /projects/CsVeM7zq786GFzgELoHI2bas2t1g5o3W.png
+    - /projects/CcIu2Zy1lfg4DgcHcP9ZSa5sM41qkxuO.png
+  tags:
+  - TV shows
+  - Movies
+  - Blog
+  - Wordpress theme
+  - UI Design
+  tools:
+  - Sublime Text
+  - brackets
+  - Adobe Illustrator
+  - wordpress
+  - Photoshop
+- title: Farhad Mehrad
+  thumb: /projects/GpHmlDBTY9f52cIqIreKgABic33RdSal.jpg
+  date: '2015-07-01'
+  content: |-
+    This is the UI, designed for Farhad's website.
+
+    "Farhad Mehrad (January 20, 1944 - August 31, 2002) widely known in Iran as Farhad was an award winning Iranian rock singer, songwriter, guitarist, pianist and icon. He rose to prominence among Iranian rock and folk musicians before theIranian Revolution, but after the revolution he was banned from singing for several years. His first concert after the Iranian Revolution was held in 1993. To this day he is considered one of the most influential and respected Iranian artists of all time."
+    -wikipedia
+  photos:
+    - /projects/bfQU6KkkJTcRnmH5gcLJw1xQ69S8TXwb.png
+    - /projects/RqYR7ymuFzY0wNnkG9JpN9542lSTRCfo.png
+    - /projects/UqvKvTX2J5VGlwup1sO8QsvN5PhP5wIX.png
+    - /projects/THxF6rjxmuyfbYZGpqqUg6ZK98LmbX95.png
+    - /projects/5xDPDbe8uATffzSZNIfv2YQVk8FWFsEX.png
+    - /projects/BCPKO9ZiX9OUUnKwtO7QJJxJzSRu01J9.png
+    - /projects/iurGiiOX1lXiENdFHWWwScXiwBCsjVNQ.png
+    - /projects/4K2qR2XtIGR700cMtdKWwYefq24TzFhB.png
+    - /projects/iNchLntk2vB89wikPVewyrXbmOhKmW83.png
+    - /projects/AFNkZnlnRqVzoSw5E1gyycVV75jRsUJv.png
+    - /projects/pyDdRHywiuxlYfxIIuJzGI4vnVSxzjez.png
+    - /projects/t1zbXHqGgGg9sxFiUHvUXfYbAJfEjfgF.png
+    - /projects/tTlwD7vnEDpgtnkKYO35fPNEuyLghcoP.png
+    - /projects/Mu2eYJYSNCbnwmvVi7TZeiM7J95DRpq5.png
+    - /projects/403vzAVvosBqhQz0agk94WnwrKVD3Gui.png
+    - /projects/gTgf8AnG0clHa1PwZbvnh3cwwQT4sfj3.png
+    - /projects/XgQyohGf6bvrgbKXhJFLnDMRciskL8Ug.png
+    - /projects/a6H9IR6WPzLR7fGTCNZw7Kb5BHjUeExV.png
+    - /projects/B7IrChNZyZmJvqb1Ck3dujqnX1XZDD6c.png
+  tags:
+  - Farhad Mehrad
+  - Web Design
+  - UI Design
+  tools:
+  - Balsamiq Mockups
+  - Adobe Photoshop
+- title: Archoog Website
+  thumb: /projects/G78jsA5M7aFoDaZcXyxYlyqVCIMBDnyS.jpg
+  date: '2016-05-01'
+  url: http://archoog.com
+  content: Archoog "Arya Choob Gil" is a famous local store for kitchen & home appliances
+    store based on Rasht, Iran.
+  photos:
+    - /projects/XbG1e5gX6dQogqFECtUt79UGOA6fHOxG.png
+    - /projects/k4JNGQ7DaWH4qqm7BL3Sa0MtIIhXsCUs.png
+    - /projects/z2p8BtUtqGQRb1KjnJJj0L7wA6NCgIrB.png
+    - /projects/45iiHf5xznvv65gwNuaEHwPUlziSVR6v.png
+  tags:
+  - Web Design
+  - Wordpress theme
+  - Wordpress
+  tools:
+  - Sublime Text
+  - Adobe Photoshop
+  - wordpress
+- title: Kerman Music
+  thumb: /projects/9IGYtjNSNcff3nzPPgGqB2zay7b7tkTV.jpg
+  date: '2012-05-01'
+  content: Kerman Music wordpress theme
+  photos:
+    - /projects/pIjugBJJoAjHT6XTjhb7GFgkFliRzhJg.jpg
+    - /projects/XFisLFl1UPbHZjokQOmYwP9Wew20o4kQ.png
+    - /projects/kixriU6IbJehcx6nsGyxznd7GhIThLA9.jpg
+    - /projects/NwSOjYelv7GgVxWSfcEx1D2PCFUkB464.jpg
+    - /projects/UOQ0ziCbDCrRTRayA58nAlNxjYeDTCuG.jpg
+    - /projects/kbsvO9nZIQCxQhyGaiNwyekGYx5WXyLu.jpg
+  tags:
+  - Wordpress theme
+  - UI Design
+  tools:
+  - Adobe Dreamweaver
+  - Adobe Photoshop
+  - wordpress
+- title: Wikiseda App UI
+  thumb: /projects/HzufO3mOm0yei5cEEg2rj0P1JSFaA5uu.jpg
+  date: '2014-12-22'
+  url: http://play.google.com/store/apps/details?id=player.wikitroop.wikiseda
+  content: |-
+    **Wikiseda is the most popular Iranian music website  
+    ** I designed the app UI, based on the original website color scheme. Wikisada app provides the largest and best collection of Persian Music. You can listen and watch anything you like. This application is designed to be all android device friendly, you can play, download or make your own playlist.
+  photos:
+    - /projects/89jo0ysUIOVfn7suXqXqGFaqPZl9meOB.jpg
+    - /projects/pyX44vr1vt753OR6lU0zUxK2o03UYdta.jpg
+    - /projects/xZTD85WjAFisHEUhRM2vfUdKKDDpbB5F.jpg
+    - /projects/8qRd0W19dCZ6zhD94GPPTMunpV5Q7YE2.jpg
+    - /projects/efsgtNZiapk7Xl7Gs4ECrDI4ujijcYoL.jpg
+    - /projects/PjGMJgNlAUR4H6072E6JSZO9StEvfBf6.jpg
+    - /projects/6fnVJb4M5wl2NIDhtuOSKJK36S04fJ2L.jpg
+    - /projects/FiYE4Z7mOloVDlZkU5aUUZvYoPUx5r0H.jpg
+    - /projects/us2o4sGkyvGxMCCaQZZqFVUaOQIGEixw.jpg
+    - /projects/eEKNREGdjphm7ygXwGf4cIs9Dn8gjmMc.jpg
+    - /projects/TCsGwUkTVnRY0QbidnlQduksIsyM562z.jpg
+    - /projects/YFcSXDQO5Joxy74uxdNQniywhjV2ZP7u.jpg
+    - /projects/mDbk0ySErR4Mi4ctI7CoVBkTshEuA02o.jpg
+    - /projects/M3mVmFPShLm0e7Llk1qF2AlVcIpBIwsM.jpg
+  tags:
+  - UI
+  - Application
+  - Android
+  - Music Player
+  tools:
+  - Photoshop
+  - Illustrator
+- title: Gilibo for Android
+  thumb: /projects/A19bGgX1kjbgGTt1kceREGXsuzcu7bZ4.jpg
+  date: '2015-09-01'
+  url: http://gilibo.com
+  content: Gilibo is an upcoming audiobook store. Listen to the free or paid audiobooks
+    on you android device.
+  photos:
+    - /projects/7Uv53PnPJQWRGzaVwpSLj1KC3GqtfIbk.png
+    - /projects/cZk76vSvCnwTYbjFmicjM94Z5ve6SAHn.png
+    - /projects/3XcVdV5qunrBvLWrOJ14EHyyGRSAm1uH.png
+    - /projects/4kJ79cQ7bK163PAAqcvQZE1tfbbezLBY.png
+    - /projects/NZuIOZXroxsLco2BfhLXYTlBWMmXA7ws.png
+    - /projects/PfzZopyE24jBzzcnERO1sYTDVep258PI.png
+    - /projects/K0KdUZ0RRbN2W0eQVGuKmpqf1Xd8ATwV.png
+    - /projects/ApZFOTG7wCg2cfBRvSgKzVAjJfbqsnrg.png
+    - /projects/7ajMqoS4F4vNjleHUnBOKHCO6duZMc1M.png
+    - /projects/vubf2n6XG7wHxwjUm2ZSeVUytvkD7jFF.png
+    - /projects/kRwvE16KOPDesILwZjIkrgmp6dyeuZg5.png
+    - /projects/v0YiuvtS2p5MiMQynaOH5RE9mANXooKU.png
+    - /projects/BxoS0vZAp6EHQPEI8lZgujgXOIook8gc.png
+    - /projects/keQHFGlNtts6qR5MkjhL7Km5M9NP8OMj.png
+  tags:
+  - Purple
+  - Book
+  - Audiobook
+  - Material Design
+  - App UI
+  - UI Design
+  - Android App
+  - Android
+  tools:
+  - Balsamiq Mockups
+  - Adobe Illustrator
+  - Adobe Photoshop
+- title: Jam Crystal
+  thumb: /projects/ncYalfSVbBGIFyx5CsGbRip2JzrCveow.jpg
+  date: '2015-10-01'
+  content: Jam crystal, the upcoming mobile advertising network that provides smart
+    advertising solutions on smartphones.
+  photos:
+    - /projects/7XQy6LvJxoB43sjYAK0NEnO5LOsgnH0e.png
+    - /projects/lwAHFY96JamKKZ07OVsaI6VxWY2KiUBe.png
+    - /projects/1F0WG7TST7BEr1mTFjnxNS5q09XKeQKK.png
+    - /projects/YKIYcaHNRqrwLEhNEwAcWLJNGQ2UKCgW.png
+    - /projects/wHjT8xlhFaGiz4v0rNWA5fcxN1Km42s6.png
+  tags:
+  - Advertising
+  - Landing page
+  - UI Design
+  tools:
+  - Adobe Illustrator
+  - Adobe Photoshop
+- title: Pasargad Graphic
+  thumb: /projects/M2yEZVuVJCuLycKH2SF9IA4nAYXpK5fY.jpg
+  date: '2013-03-01'
+  url: http://pasargad-graphic.ir
+  content: Pasargad Graphic Redesign for 2013
+  photos:
+    - /projects/isnBUSN00XnhtO2kG5ClMIEJfb2Qv7FA.jpg
+    - /projects/Ew41ecSII0qo7p3y5FJUzKyMOwxMFvlD.jpg
+    - /projects/CHfIRsYle6kSSmfqJuZPzJxzc3eriU5o.jpg
+    - /projects/7ajjcPsdTYeeOguLaIgwa0HvnAMF6ijg.jpg
+    - /projects/fe3t74RgrRZtyhrQxnCR6TnCLBUkivRY.jpg
+    - /projects/aL9BumM1bKKVqDtBhIOoPCxprPNd5S8L.jpg
+    - /projects/qOez6tnXqLqOJ8wcn6HQ9B4PbZRiZrnU.jpg
+    - /projects/Xj8RfAv74WURDkj76HAYJIEKWRNRI2xS.jpg
+    - /projects/T80FDlI0GiOvz0QxvpbyZCza7wGCne1d.jpg
+    - /projects/aiFqrB3KeMiKJWbhhW2TKHwFXTFQOr3m.jpg
+    - /projects/ap9AwSwT9pCkifaKDTWmob5jHnaKYUyM.jpg
+    - /projects/X4uqu5cPemjXGxVaFfknhQsv79H8Xzdb.jpg
+    - /projects/Xg3hLwfYroLV4wBvg8aAh52WlrmMkue2.jpg
+  tags:
+  - Pasargad Graphic
+  - Wordpress theme
+  - Wordpress
+  - Web Design
+  tools:
+  - Sublime Text
+  - wordpress
+  - Adobe Photoshop
+- title: Pelk eBook reader
+  thumb: /projects/hQCaADFPfkcnCM3OmtLluRVE7iOe66td.jpg
+  date: '2014-02-01'
+  content: پلک یک اپلیکیشن برای خرید و مطالعه کتاب‌های الکترونیکی برای سیستم‌عامل‌های
+    Android و iOS می باشد.
+  photos:
+    - /projects/movuyraiCPP1kmNr7zUGFBRuvqBltzv4.png
+    - /projects/ARID6xF2gy6K1X8550ehtVt3c2jgShJw.png
+    - /projects/bFH1iodPXl29FS1GwuG7HWhumVHhK80h.png
+    - /projects/7wOKwQNdfyqzOMrQlKHxxd46Z6drwXZ2.png
+    - /projects/JpLYVCpdrSEAkF0l8UUGNFbeFs7M3ohD.png
+    - /projects/dzlgw7nzcmaX7eohiEcoULJeM7itFKRH.png
+    - /projects/v5bhVQybAdDaultQTb98LWAFgi82O2Sg.png
+    - /projects/wjORFheL59juTrBaRTwUajOLb6mU5If1.png
+    - /projects/EdScQSzwTUE8rgPiC9PnabBZGTPHby4D.png
+    - /projects/PL23lffibJNHHzoMw6zYNd3VQej7UcJ7.png
+    - /projects/eL720LowxIRnWG9yE5Qr33vfaP4otpYt.png
+  tags:
+  - Book reader
+  - Mobile app
+  tools:
+  - Android Studio
+  - XCode
+- title: MUL
+  thumb: /projects/Hv1FD4OPMbMZHVUpd2oY08jyFLaIgxGq.jpg
+  date: '2012-10-01'
+  content: |-
+    It's a FileSharing website logo.
+    I made a folder shape, shows it's something about files
+    I also used 3 red lines those transform to one single arrow pointed in the bottom;
+    It shows whole website's servise:
+    "Transfer files from any other file sharing sites to one single website; so it would be easier to download"
+  photos:
+    - /projects/QJ9YHUqU9jHyeTQCwuC0hHVl6khGtVoK.jpg
+    - /projects/y6OEfv77BAyFGxzbEoSzphGl23cwMANC.jpg
+  tags:
+  - Logo design
+  tools:
+  - Adobe Photoshop
+- title: Upal for Android
+  thumb: /projects/Qp5whQZjX1A5WiHpYxI6PnWFfKyikwWF.jpg
+  date:
+  url: http://upal.ir
+  content: |-
+    [Upal](http://upal.ir) payment gateway, brings several money transfer features on your phone.
+    I designed the app UI, using Google Material Design guidelines
+  photos:
+    - /projects/dmiJnpFG2vJskJZJOLb33eyZ3LPE6G4i.png
+    - /projects/OAB6xa82ZCh54wthkRBoNWXbrTcBcwtu.png
+    - /projects/1Ngr0L9duyp5aUF8AgplVI4F3hUOe01W.png
+    - /projects/S562IPTNJJiBAwITrFqDig6b46ZJ4R5c.png
+    - /projects/m2j6qv2x5KzCpkHuz0G0MGCqaxH9TY3d.png
+    - /projects/lnCPta3s7Qi06qTLniypsmRumGcr5rVK.png
+    - /projects/GEmxSqeTlv0AKAnFO0sMh7JolrWPYP65.png
+    - /projects/JdcALNQFUslU8ixjZu5T14iQoRKofjFL.png
+    - /projects/rPBauK5V7EyKEv2AYYpkvcaEnrnRtmEY.png
+    - /projects/5daJWLQ0lq1F25r7a17etuARHEwiPpQc.png
+  tags:
+  - Material Design
+  - Mobile App
+  - UI Design
+  - Android
+  - Application
+  tools:
+  - Adobe Photoshop
+  - Balsamiq Mockups
+  - Adobe Illustrator
+- title: Iran National Teen Scientific NGO
+  thumb: /projects/fUn1QSCbrXQx1cAwJS98amVhqJzcjlkC.jpg
+  date: '2012-05-01'
+  url: http://aeni.ir
+  content: |-
+    Iran National Teen Scientific NGO ( A.E.N.I ) Logo
+  photos:
+    - /projects/LJrKDhHSpXC1ekbNuWCi3mWWpXaBwRmk.jpg
+    - /projects/oOQ2iT50gAs8DA7leo76sPMRS1ghgjcO.jpg
+    - /projects/AwfXi615ohPNFegueAtV4KYoLGaOyMCS.jpg
+  tags:
+  - Children
+  - logo
+  - Logo design
+  tools:
+  - Adobe Illustrator
+  - Adobe Photoshop
+- title: VastFile
+  thumb: /projects/1NDfPKZa5TQCezlBReRLqFFXsR1qQwqn.jpg
+  date: '2012-11-01'
+  content: Logo designed for "VastFile", the file sharing website
+  photos:
+    - /projects/kodfOaIkQbQrR8sqvcJybZXzwR8ALlWY.jpg
+    - /projects/CBsZWhhTo4FLtfb6VqbSS2PBwb8X30yx.png
+    - /projects/V7dfxaB5lO3vkUEoloe5tsya4EBy5bfF.png
+    - /projects/4s8dFX9RszWwsgrztFLnMY2tFml9F8xl.png
+    - /projects/sfwyUZBTIWgtfSnyED5jEuVig9D4wqAo.png
+    - /projects/8ZDtrs8XQ132qNOVDi1Zl1MQDlHO3Bem.jpg
+  tags:
+  - logo
+  - Logo design
+  tools:
+  - Adobe Photoshop
+- title: Saadeghi.com Redesigned
+  thumb: /projects/XryBWdGBzTfnbMxh2ho2xMcpWgMtFrdQ.jpg
+  date: '2014-03-01'
+  url: http://Saadeghi.com
+  content: ''
+  photos:
+    - /projects/uQNkrvCHnbF5dC8GePtH1rrDbcdcaRdu.jpg
+    - /projects/hJOmZcyEk2efIRd7ya1D6OnwmFcFcwiy.jpg
+    - /projects/ZTUnHr4PhfGIbOYsq7OyRxua5LQud98M.png
+    - /projects/RxyiWcaL1RjkODKRPedJT6EGeofh3uCa.png
+    - /projects/m6ol6wrGXrHKdPFIv4k1UNXj4aIEa6AX.png
+    - /projects/A1IeiLJ8ezfuwYU4iWouSwMiYj8VxBdT.png
+    - /projects/eFKXaBBQ9e9b9pP4TRLTCzxdZbwJGZ08.png
+    - /projects/WV5wtLzOF9jhGhpUpcrzgZLJ1qkC1Gfw.png
+  tags:
+  - Vintage
+  - UI Desgin
+  - Website UI
+  - Brown
+  - vCard
+  tools:
+  - Adobe Illustrator
+  - Sublime Text
+  - Adobe Photoshop
+- title: Gilan Spinal Cord Injury Association
+  thumb: /projects/SYdXcQUSfaaxz4l0j4mVR9ruajAHWtvr.jpg
+  date: '2013-09-01'
+  content: |-
+    Official Wordpress Theme for GSCIA website
+    A local charity association to help cord injury patients, based on Gilan, Iran
+  photos:
+    - /projects/7w1VwFelxXo8mDSEQ6lNqO0aa3uSEh2g.jpg
+    - /projects/e4lJ0JSCEv1pu0xmO9i3n0PXzoyMse1U.jpg
+    - /projects/YWAS35V2lfoklwV7DgjrCZT93KIQq41I.jpg
+  tools:
+  - wordpress
+  - Sublime Text
+  - Adobe Photoshop
+- title: ErfanMix
+  thumb: /projects/xbqK5LyjQJAz9CadcnWROmxOQPsojS6E.jpg
+  date: '2012-11-01'
+  content: ErfanMix Logo
+  photos:
+    - /projects/vCZRdf3oLJfdITB6a7pDnkBPbrdda3mb.jpg
+    - /projects/KokgpxOklCWM7hXYgCZsCBaiKO8IHAwg.jpg
+    - /projects/DZnVL5ahmqaLJ0A7nEB2VgS4YQNMLpT1.jpg
+    - /projects/NiGdvXzlu2FAFbsDXltXTWEv4uvfgsUI.jpg
+    - /projects/rdD1iOvAHsrDpRPQRSWFh3OeiLraeVpX.jpg
+    - /projects/Wzwlz1KEPdsjHAeHBn4cdL3QtcWR1xOd.jpg
+  tags:
+  - Movie
+  - Mix
+  - Horse
+  - logo
+  - Logo design
+  tools:
+  - Adobe Photoshop
+- title: Ugig UI Concept
+  thumb: /projects/1UoFnwyisUAO9l0jXJJYkEwaL3r13ojX.jpg
+  date:
+  url: http://ugig.ir
+  content: ''
+  photos:
+    - /projects/4zRB0SHhrtsPFNluLKJieN7aI2lU90kd.png
+  tags:
+  - Blue
+  - Hosting
+  - website
+  - Web Design
+  - UI Design
+  tools:
+  - Adobe Illustrator
+  - Adobe Photoshop
+  - Balsamiq Mockups
+- title: Ba-Mobl Furniture
+  thumb: /projects/JIFT2psZiQIAIDuURdYARNjqirwR2S7q.jpg
+  date: '2013-01-01'
+  content: |-
+    Iran furniture, the upcoming online catalog for furniture stores "Ba Mobl"
+    Ba Mobl brand name shaped as an armchair sideview.
+  photos:
+    - /projects/WV1FkTL7xtruoV7IfoPHWj5u6l2fFTQB.png
+    - /projects/mdgovuHuyFBScvg84pQqRWAxNiHt4deg.png
+    - /projects/9kaEfG6bwDMzSCkhvIpMIVorSagMqVDq.png
+    - /projects/72YoXRlPT6Dvdzb73Q5BufGETIlbZNSR.png
+    - /projects/RY0cUvcGDfowt8rAteNiYOmVfbucgejR.png
+    - /projects/XtWIcv8nqirX4SwdbXdg2ZKsCf0oUDSS.png
+    - /projects/2OjwIVNI1URCs8FgYNHDZt6RbFtr7l60.png
+    - /projects/thXoLWxeqH7qQ8kptJspxAd1zaHVdTD0.png
+    - /projects/476YpgvCgSbCWnJzjS1wKd26kpmuv02a.png
+  tags:
+  - Logo WIP
+  - Furniture
+  - Logotype
+  - Logo design
+  tools:
+  - Adobe Illustrator
+  - Adobe Photoshop
+  - Autodesk SketchBook
+- title: ITnews2
+  thumb: /projects/wVt0sjHn0SvAUa5wlzuSFAZgz50vLXgC.jpg
+  date: '2012-01-01'
+  content: Wordpress theme for ITnews2, the tech blog
+  photos:
+    - /projects/TpzsKSRi8Q9vyJBu6Bk2YCn16UZwNgNQ.jpg
+    - /projects/JedzqxYgkHLHwYCWvUirKvHRvScZHDyB.jpg
+    - /projects/w7KpVf4jWjkSuv4m3odPykw3vdiRiKVD.jpg
+    - /projects/mIjfcDPo4Qxz9hYnC2kKMudDOLcJPCqD.jpg
+    - /projects/gTAdtqrYNz2O6FbZy1iM2nRTURGHgCJN.jpg
+  tags:
+  - UI Design
+  - Wordpress theme
+  tools:
+  - wordpress
+  - Adobe Photoshop
+- title: Parsizabanan
+  thumb: /projects/vsIkP43h4ghbxm4y6ZBFT3i35KsfmWsE.jpg
+  date: '2013-03-01'
+  content: Parsizabanan Website Redesign
+  photos:
+    - /projects/3h8RyBGsPJDGx3qMhAjVic7VN9xzadR1.jpg
+    - /projects/y0h1jIN5noAgyCsP5vGlg9iiKlt0HBnt.jpg
+    - /projects/XjgvoGegkKZjhrFX48aSI5dFtCsozhaa.jpg
+    - /projects/W6BbL1YYMkroLsUM7aoMyktuzuuC8LQt.jpg
+    - /projects/OPC0FvIkmWlq5hbK6UkgekOKIYbKqH1S.jpg
+    - /projects/Z8eOrNaf0Vom5mXPov81KetYRnH90EMQ.jpg
+    - /projects/MTHtNZ7NMkNW5b4ezcuzN0N0mr2POimb.jpg
+  tools:
+  - brackets
+  - Adobe Photoshop
+- title: P30mororgar
+  thumb: /projects/XMNou0DXXC6Toroh5GCxo9ajPcUtZSif.jpg
+  date: '2012-05-01'
+  url: http://p30mororgar.ir
+  content: P30mororgar wordpress theme
+  photos:
+    - /projects/cXe1B311aigwLHW8NLnWYTtsdKpj4wSj.jpg
+    - /projects/fhEQaRoE24i8nnpgBEPxX3ZLmQPmw4Zq.jpg
+  tags:
+  - Wordpress theme
+  - Wordpress
+  tools:
+  - Adobe Photoshop
+  - Adobe Dremaweaver
+- title: News/Review Blog
+  thumb: /projects/L5ETCCDfCMFsiB7z635iZ4RvIqh83GJC.jpg
+  date: '2013-03-01'
+  content: News/Review Blog Theme
+  photos:
+    - /projects/YRfpBY4QjgEwe5Xfo0cPTxyJMBL2Yahp.jpg
+  tags:
+  - News Website
+  - UI Design
+  tools:
+  - Notepad++
+  - brackets
+  - Adobe Photoshop
+- title: Green EXIM
+  thumb: /projects/wijFnPcFQ8TWp3tKKj38sgk90FUj4zj0.jpg
+  date: '2011-09-01'
+  content: Green EXIM Logo
+  photos:
+    - /projects/6WZb1vJmSJzNOkrW7foxgY213XYzPZRZ.jpg
+    - /projects/1TLdVMeX5TTphqF7pIR9eoSAvZSuzuYA.jpg
+    - /projects/LxtCO5BkoBN1ZMmfhKtQpwxe5MzxGINX.jpg
+    - /projects/5HzULpdmvY5hqoD5ATVfUBJH9OV97N0c.jpg
+    - /projects/OuEy9lLBQlwyoNlvnxCbR4WckfE57LYz.jpg
+  tags:
+  - Logo design
+  tools:
+  - Adobe Photoshop
+- title: eShop UI
+  thumb: /projects/xWFGaJ4WseZwqTxMPZ2onCgOa6xDayQu.jpg
+  date: '2011-07-01'
+  content: ''
+  photos:
+    - /projects/xohLDrWMa1ENzG7qjIixYOgOGeN7itjm.jpg
+    - /projects/Y0EkvplJlqWgNXhHyWBrO0z7xqowBSgQ.jpg
+    - /projects/RY4KR4iBXIyWQqrYH4wEA80e2hY6Tax5.jpg
+    - /projects/dn1DhQARZymO8L2dzIdLv3J33jLVWKcM.jpg
+  tools:
+  - Photoshop
+  - Notepad++
+  - Adobe Dreamweaver
+- title: NovinPort
+  thumb: /projects/SHXKqK464is6kvBpsjWBvlXV9qmikEmQ.jpg
+  date: '2013-03-01'
+  content: NovinPort Wordpress Theme
+  photos:
+    - /projects/2zEXWutrCBPGREy6bDUJLBMiO8Ehxrb0.jpg
+  tags:
+  - Wordpress theme
+  - UI Design
+  tools:
+  - Sublime Text
+  - wordpress
+  - Adobe Photoshop
+- title: SEOpishro UI
+  thumb: /projects/Jrv7vOZmyqNEEoDoXCc4dxRLbKGRAU1h.jpg
+  date: '2012-04-01'
+  content: ''
+  photos:
+    - /projects/hScHr29KSlde4pz7cs5dHD4xHeGAg4Mi.jpg
+    - /projects/guFazwtgJCpPjuqI6WVzSnPwSoCQEPnt.jpg
+  tags:
+  - UI Design
+  tools:
+  - Adobe Photoshop
+- title: Charisma
+  thumb: /projects/AkcluADKdx9jGtk11XBPVtv4y2fIAr7N.jpg
+  date: '2013-01-01'
+  content: 'Charisma Wordpress Theme
+
+    '
+  photos:
+    - /projects/S2WlGUZakBzvvKTiXi1SZi86aWAwVcmG.jpg
+    - /projects/VgWiM9ERDoM4pwDsDaKlp3lcl0LIMUbg.jpg
+    - /projects/jpmfPxFaFBKAKLfsTzRqbNSNsWIpNcVs.jpg
+    - /projects/2T1d56EKRSxEijBpFS55tN0vXV3FM2QJ.jpg
+  tags:
+  - Blog
+  - Gray
+  - UI Design
+  tools:
+  - wordpress
+  - Adobe Photoshop
+- title: SmartView
+  thumb: /projects/9NBJKbBypc0RkpJ7yW1R5MhjjgbZSO2o.jpg
+  date: '2013-01-01'
+  content: SmartView Wordpress Theme
+  photos:
+    - /projects/nwsBBz18Fir982aet9z5yaiGYIeUA8wD.jpg
+    - /projects/IV6z5vtLvDMJ5uTzVg7NIm6rfTUa5BK8.jpg
+    - /projects/09dmaM6lcwoCuPu1Q3ijiO77LhT7WqAu.jpg
+  tags:
+  - Image gallery
+  - Gray
+  - Minimal
+  - UI Design
+  tools:
+  - wordpress
+  - Adobe Photoshop
+- title: Liveblog UI
+  thumb: /projects/A4m4UM2OpKb7uAgNpu3y9VVjwfLfVgXS.jpg
+  date: '2013-05-01'
+  content: ''
+  photos:
+    - /projects/GiKbmlxsEcSQVaOg16kIZazMaZ7DBBej.jpg
+    - /projects/JA2GB9sreny8PbuOR6063msPI9XTgoSQ.jpg
+    - /projects/eXAk5Fnwoanf0o8qHKZjGL4Cudv8gqv4.jpg
+    - /projects/fl31wUhGy7c5gzUTbcrdDUHaic7iy1YG.jpg
+    - /projects/4q3jbCZ7L5Ud46dVJZElbsTNl0nWbjiD.jpg
+  tags:
+  - White
+  - UI Design
+  - Liveblog
+  tools:
+  - brackets
+  - Adobe Photoshop
+- title: PersiaGFX UI consept
+  thumb: /projects/mt6UJUtwps6f3W61CnG4UGvQodRjIIVp.jpg
+  date: '2012-02-01'
+  content: ''
+  photos:
+    - /projects/C9lKCFrh4Uxl2PkU2uHHJSsor76SUhu7.jpg
+    - /projects/AMFotZAocSYfL4USrTgGNYF5149R6WV3.jpg
+    - /projects/W9bfbRu4L9e3olmh2hunG0irb48dA8aV.jpg
+- title: AtrinShop
+  thumb: /projects/QXqwSKxlTRiretxqgy9zjjrda90QrKjH.jpg
+  date: '2012-07-01'
+  content: ''
+  photos:
+    - /projects/ZYiXeVCXtqzO5BiD3i0eCFtUVQnla8mn.jpg
+    - /projects/uDe2ie71OkZSHNT173zQEr2BpdISqqoP.jpg
+  tags:
+  - UI Design
+  tools:
+  - Adobe Photoshop
+- title: Omid Iranian
+  thumb: /projects/ZwtFH43pEwMhGl04XAiaWWl6cEgLLF6t.jpg
+  date: '2011-04-01'
+  content: ''
+  photos:
+    - /projects/u0LBcN3qRYof6IKGCa969SaURw5nj00f.jpg
+  tags:
+  - UI Design
+  tools:
+  - Adobe Photoshop

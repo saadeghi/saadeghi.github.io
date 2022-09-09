@@ -4,19 +4,6 @@ description: Pouya Saadeghi – front-end developer in Istanbul
 firstname: Pouya
 lastname: Saadeghi
 tagline: Product designer & Front-end developer
-projects:
-- title: "[daisyUI](https://daisyui.com/)"
-  desc: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 20,000 open-source projects
-- title: "[Atbox.io](https://atbox.io/)"
-  desc: Atbox was a resume builder and portfolio hosting startup, successfully provided services to more than 120K users in a 8-year period and finally retired in 2022 June.
-- title: "[Lorem.space](https://lorem.space/)"
-  desc: Placeholder image generator for developers and designers with open-source API
-- title: "[svelte-countup](https://github.com/saadeghi/svelte-countup)"
-  desc: Open-source component for Svelte.js
-- title: "[theme-change](https://github.com/saadeghi/theme-change)"
-  desc: Open-source JS library to handle CSS theming with more than 70,000 NPM downloads
-- title: "[CryptoMeme.wtf](https://cryptomeme.wtf/)"
-  desc: Open-source meme generator based on current crypto price
 experiences:
 - date: Dec 2020 – Present
   role: Open-source contributor

@@ -1,5 +1,7 @@
 {
   "printWidth": 99999,
   "htmlWhitespaceSensitivity": "ignore",
+  "useTabs": false,
+  "tabWidth": 2,
   "semi": false
 }
