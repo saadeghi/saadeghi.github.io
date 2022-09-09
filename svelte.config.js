@@ -9,12 +9,5 @@ export default {
     alias: {
       "@src": "src",
     },
-    browser: {
-      hydrate: false,
-      router: false,
-    },
-    prerender: {
-      default: true,
-    },
   },
 }

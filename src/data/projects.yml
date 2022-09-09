@@ -16,6 +16,13 @@
   tools:
   - Tailwind CSS
   - PostCSS
+- title: svelte-countup
+  thumb: /projects/DUywCUjIpFvettkgI6SPHaN0HVWU7fUf.jpg
+  date: '2022-03-01'
+  url: https://github.com/saadeghi/svelte-countup
+  content: A Svelte component that counts up from an initial number to a target number
+  photos:
+    - /projects/DUywCUjIpFvettkgI6SPHaN0HVWU7fUf.png
 - title: Atbox.io
   thumb: /projects/HPUlWrwNhUZaEDQH0UZTIXWDizmTO8k5.jpg
   date: '2014-04-01'
@@ -381,7 +388,7 @@
   thumb: /projects/A19bGgX1kjbgGTt1kceREGXsuzcu7bZ4.jpg
   date: '2015-09-01'
   url: http://gilibo.com
-  content: Gilibo is an upcoming audiobook store. Listen to the free or paid audiobooks
+  content: Gilibo was an audiobook store. Listen to the free or paid audiobooks
     on you android device.
   photos:
     - /projects/7Uv53PnPJQWRGzaVwpSLj1KC3GqtfIbk.png

@@ -18,8 +18,8 @@
   <div class="flex flex-col gap-16 lg:gap-6">
     <div class="my-4 grid gap-2 md:grid-cols-2 lg:grid-cols-3">
       {#each projects as project}
-        <a href={`/projects/${convertToSlug(project.title)}`} class="group flex flex-col items-center gap-4 rounded bg-slate-50 py-20 text-slate-700 transition duration-700 hover:bg-slate-800 hover:text-slate-200">
-          <img src={project.thumb} alt={project.title} width="200" height="200" class="rounded transition duration-300 group-hover:scale-105" />
+        <a href={`/projects/${convertToSlug(project.title)}`} class="flex flex-col items-center gap-4 rounded bg-slate-50 py-20 text-slate-700 transition duration-700 hover:bg-slate-800 hover:text-slate-200">
+          <img src={project.thumb} alt={project.title} width="200" height="200" class="rounded transition duration-300" />
           <div class="text-center text-sm">
             {project.title}
           </div>
