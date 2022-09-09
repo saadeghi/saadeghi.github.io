@@ -1,6 +1,6 @@
-# Pouya's resume template
+# Pouya's website.
 
-This is a simple SvelteKit template that reads resume data from a YAML file and makes a resume.
+This is a simple SvelteKit template that reads data from YAML files and creates resume and portfolio pages
 
 ## Demo
 
@@ -23,4 +23,4 @@ npm install
 npm run dev
 ```
 
-Edit `src/data/resume.yml` file and put your own data
+Edit Yaml files on `src/data` and put your own data
