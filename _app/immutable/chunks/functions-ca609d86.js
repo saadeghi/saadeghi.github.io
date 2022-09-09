@@ -1,0 +1,1 @@
+const r=e=>e.toLowerCase().replace(/ /g,"-").replace(/[^\w-]+/g,""),a=e=>e.replace(/(^\w+:|^)\/\//,""),n=e=>new Date(e).toLocaleDateString("en-US",{year:"numeric",month:"long"});export{r as c,n as f,a as p};
