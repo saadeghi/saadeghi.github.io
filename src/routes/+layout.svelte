@@ -3,6 +3,7 @@
 </script>
 
 <svelte:head>
+  <meta name="p:domain_verify" content="27dd8be8c47874cd4e50e11d78de4d69"/>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Montserrat+Alternates:wght@100;700&display=swap" rel="stylesheet" />
