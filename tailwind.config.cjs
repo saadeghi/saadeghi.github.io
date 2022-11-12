@@ -5,8 +5,8 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        'title': ['Montserrat Alternates', 'sans-serif'],
-        'sans': ['Inter', 'sans-serif'],
+        'title': ['Mona Sans', 'sans-serif'],
+        'sans': ['Mona Sans', 'sans-serif'],
       },
     }
   },

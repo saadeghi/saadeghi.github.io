@@ -10,9 +10,9 @@
 </div>
 
 <div class="flex flex-col gap-6 print:mt-10 print:gap-2">
-  <h1 class="text-3xl md:text-6xl">
+  <h1 class="text-3xl md:text-6xl" style="font-variation-settings: 'wdth' 125;">
     {#if resume.firstname}
-      <span class="font-title font-bold">
+      <span class="font-title font-black">
         {resume.firstname}
       </span>
     {/if}
