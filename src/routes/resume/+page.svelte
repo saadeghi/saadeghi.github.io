@@ -19,7 +19,7 @@
   <div class="flex flex-col gap-16 print:gap-6 lg:gap-6">
     <div class="grid items-baseline gap-x-10 print:grid-cols-4 lg:grid-cols-4">
       <div class="print:col-start-2 lg:col-span-3 lg:col-start-2">
-        <h2 class="font-title text-2xl font-bold text-blue-600">Experience</h2>
+        <h2 class="text-2xl font-bold text-blue-600">Experience</h2>
       </div>
     </div>
 
@@ -72,7 +72,7 @@
   <div class="flex flex-col gap-16 print:gap-6 lg:gap-6">
     <div class="grid items-baseline gap-x-10 print:grid-cols-4 lg:grid-cols-4">
       <div class="print:col-start-2 lg:col-span-3 lg:col-start-2">
-        <h2 class="font-title text-2xl font-bold text-blue-600">Education</h2>
+        <h2 class="text-2xl font-bold text-blue-600">Education</h2>
       </div>
     </div>
 
@@ -109,7 +109,7 @@
   <div class="flex flex-col gap-16 print:gap-6 lg:gap-6">
     <div class="grid items-baseline gap-x-10 print:grid-cols-4 lg:grid-cols-4">
       <div class="print:col-span-3 print:col-start-2 lg:col-span-3 lg:col-start-2">
-        <h2 class="font-title text-2xl font-bold text-blue-600">Skills and Tech Stack</h2>
+        <h2 class="text-2xl font-bold text-blue-600">Skills and Tech Stack</h2>
       </div>
     </div>
 
@@ -131,7 +131,7 @@
   <div class="flex flex-col gap-16 print:gap-6 lg:gap-6">
     <div class="grid items-baseline gap-x-10 print:grid-cols-4 lg:grid-cols-4">
       <div class="print:col-span-3 print:col-start-2 lg:col-span-3 lg:col-start-2">
-        <h2 class="font-title text-2xl font-bold text-blue-600">Contact Info</h2>
+        <h2 class="text-2xl font-bold text-blue-600">Contact Info</h2>
       </div>
     </div>
 

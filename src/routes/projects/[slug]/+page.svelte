@@ -23,7 +23,7 @@
   <div class="flex flex-col items-center gap-10 lg:flex-row">
     <img src={data.thumb} alt={`${data.title} by ${resume.title}`} width="150" height="150" class="rounded-xl" />
     <div class="flex flex-col gap-4 text-center lg:text-left">
-      <h1 class="font-title text-2xl font-bold md:text-4xl lg:text-6xl">
+      <h1 class="text-2xl font-bold md:text-4xl lg:text-6xl">
         {data.title}
       </h1>
       <div class="flex flex-col items-center gap-4 lg:flex-row">
@@ -42,7 +42,7 @@
     </div>
   </div>
 
-  <div class="font-title text-xl leading-snug md:text-3xl lg:text-6xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
+  <div class="text-xl leading-snug md:text-3xl lg:text-6xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
     <SvelteMarkdown isInline source={data.content} renderers={{ link: ExternalLink }} />
   </div>
 

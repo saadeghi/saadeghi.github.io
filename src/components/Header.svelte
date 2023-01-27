@@ -12,12 +12,12 @@
 <div class="flex flex-col gap-6 print:mt-10 print:gap-2">
   <h1 class="text-3xl md:text-6xl" style="font-variation-settings: 'wdth' 125;">
     {#if resume.firstname}
-      <span class="font-title font-black">
+      <span class="font-black">
         {resume.firstname}
       </span>
     {/if}
     {#if resume.lastname}
-      <span class="font-title font-extralight">
+      <span class="font-extralight">
         {resume.lastname}
       </span>
     {/if}

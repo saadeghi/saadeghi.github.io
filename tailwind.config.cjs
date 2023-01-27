@@ -1,13 +1,11 @@
 module.exports = {
-  content: [
-    './src/**/*.{svelte,html}'
-  ],
+  content: ["./src/**/*.{svelte,html}"],
   theme: {
     extend: {
       fontFamily: {
-        'title': ['Mona Sans', 'sans-serif'],
-        'sans': ['Mona Sans', 'sans-serif'],
+        // 'title': ['Mona Sans', 'sans-serif'],
+        sans: ["Mona Sans", "sans-serif"],
       },
-    }
+    },
   },
 }
