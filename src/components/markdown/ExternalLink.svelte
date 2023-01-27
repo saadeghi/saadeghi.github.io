@@ -3,4 +3,4 @@
   export let title = undefined
 </script>
 
-<a {href} {title} target="_blank" rel="nofollow"><slot /></a>
+<a {href} {title} target="_blank" rel="noreferrer nofollow"><slot /></a>

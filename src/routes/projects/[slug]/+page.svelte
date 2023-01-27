@@ -28,7 +28,7 @@
       </h1>
       <div class="flex flex-col items-center gap-4 lg:flex-row">
         {#if data.url}
-          <a href={data.url} target="_blank" rel="nofollow" class="text-blue-600">
+          <a href={data.url} target="_blank" rel="noreferrer nofollow" class="text-blue-600">
             {prettyUrl(data.url)}
           </a>
         {/if}
