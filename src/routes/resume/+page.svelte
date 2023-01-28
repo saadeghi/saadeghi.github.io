@@ -34,7 +34,7 @@
           <h2 class="inline font-bold">
             {experience.role}
           </h2>
-          <span class="[&>a]:underline">
+          <span class="[&_a]:underline">
             {#if experience.place}
               at
               <SvelteMarkdown isInline source={experience.place} renderers={{ link: ExternalLink }} />
@@ -57,7 +57,7 @@
           {/if}
           <ul class="mx-5 my-2 flex list-disc flex-col gap-1 text-sm">
             {#each experience.bullets as bullet}
-              <li class="[&>a]:underline">
+              <li class="[&_a]:underline">
                 <SvelteMarkdown isInline source={bullet} renderers={{ link: ExternalLink }} />
               </li>
             {/each}
@@ -139,7 +139,7 @@
       <div class="print:col-span-3 print:col-start-2 lg:col-span-3 lg:col-start-2">
         <ul class="mx-5 my-2 flex list-disc flex-col gap-1 text-sm">
           {#each resume.contacts as contact}
-            <li class="[&>a]:underline">
+            <li class="[&_a]:underline">
               <SvelteMarkdown isInline source={contact} renderers={{ link: ExternalLink }} />
             </li>
           {/each}
