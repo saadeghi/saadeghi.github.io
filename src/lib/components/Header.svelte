@@ -4,9 +4,9 @@
 </script>
 
 <div class="flex gap-10 print:hidden">
-  <a class={`text-sm py-1 border-b-transparent border-b-2 hover:border-blue-600 ${$page.url.pathname == "/" ? "border-b-blue-600" : ""}`} href="/">About</a>
-  <a class={`text-sm py-1 border-b-transparent border-b-2 hover:border-blue-600 ${$page.url.pathname == "/resume/" ? "border-b-blue-600" : ""}`} href="/resume/">Resume</a>
-  <a class={`text-sm py-1 border-b-transparent border-b-2 hover:border-blue-600 ${$page.url.pathname == "/projects/" ? "border-b-blue-600" : ""}`} href="/projects/">Projects</a>
+  <a class={`text-sm py-1 border-b-2 hover:border-blue-600 ${$page.url.pathname == "/" ? "border-b-blue-600" : "border-b-transparent"}`} href="/">About</a>
+  <a class={`text-sm py-1 border-b-2 hover:border-blue-600 ${$page.url.pathname == "/resume/" ? "border-b-blue-600" : "border-b-transparent"}`} href="/resume/">Resume</a>
+  <a class={`text-sm py-1 border-b-2 hover:border-blue-600 ${$page.url.pathname == "/projects/" ? "border-b-blue-600" : "border-b-transparent"}`} href="/projects/">Projects</a>
 </div>
 
 <div class="flex flex-col gap-6 print:mt-10 print:gap-2">

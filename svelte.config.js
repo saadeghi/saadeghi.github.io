@@ -6,8 +6,5 @@ export default {
     adapter: adapter({
       precompress: true,
     }),
-    alias: {
-      "@src": "src",
-    },
   },
 }

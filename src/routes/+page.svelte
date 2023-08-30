@@ -3,19 +3,15 @@
   import { Head } from "svead"
   import SvelteMarkdown from "svelte-markdown"
 
-  import Header from "@src/components/Header.svelte"
-  import ExternalLink from "@src/components/markdown/ExternalLink.svelte"
-
-  import yaml from "js-yaml"
-  import fs from "fs"
-  const resume = yaml.load(fs.readFileSync("./src/data/resume.yml", "utf8"))
-  const about = yaml.load(fs.readFileSync("./src/data/about.yml", "utf8"))
+  import Header from "$lib/components/Header.svelte"
+  import ExternalLink from "$lib/components/markdown/ExternalLink.svelte"
+  export let data
 </script>
 
-<Head title={resume.title} description={resume.description} url={$page.url.toString()} />
+<Head title={data.resume.title} description={data.resume.description} url={$page.url.toString()} />
 
-<Header {resume} />
+<Header resume={data.resume} />
 
 <div class="leading-loose [&_a]:font-bold [&_a]:underline">
-  <SvelteMarkdown source={about} renderers={{ link: ExternalLink }} />
+  <SvelteMarkdown source={data.about} renderers={{ link: ExternalLink }} />
 </div>
