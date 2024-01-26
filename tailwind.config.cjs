@@ -1,5 +1,8 @@
 module.exports = {
   content: ["./src/**/*.{svelte,html}"],
+  experimental: {
+    optimizeUniversalDefaults: true,
+  },
   theme: {
     extend: {
       fontFamily: {
