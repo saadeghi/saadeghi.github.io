@@ -1,1 +1,0 @@
-import{b as o,c as h,e as l}from"./index-client.DPNa-s5k.js";import{h as m,e,g as s,i as d,j as c}from"./disclose-version.BGX7ahjl.js";function b(f,n,g,_){var r="",t;o(()=>{r!==(r=n())&&(t&&(l(t),t=null),r!==""&&(t=h(()=>{if(m){e(d(),s[s.length-1]);return}var i=r+"",a=c(i);e(a.firstChild,a.lastChild),f.before(a)})))})}export{b as h};
