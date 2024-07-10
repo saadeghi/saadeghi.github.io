@@ -11,20 +11,14 @@ export let resume
 
 <div class="flex flex-col gap-6 print:mt-10 print:gap-2">
   <h1 class="text-3xl md:text-6xl" style="font-variation-settings: 'wdth' 125;">
-    {#if resume.firstname}
-      <span class="font-black">
-        {resume.firstname}
-      </span>
-    {/if}
-    {#if resume.lastname}
-      <span class="font-extralight">
-        {resume.lastname}
-      </span>
-    {/if}
+    <span class="font-black" title={resume?.firstnameHint}>
+      {resume?.firstname}
+    </span>
+    <span class="font-extralight" title={resume?.lastnameHint}>
+      {resume?.lastname}
+    </span>
   </h1>
-  {#if resume.tagline}
-    <h2 class="md:text-xl">
-      {resume.tagline}
-    </h2>
-  {/if}
+  <h2 class="md:text-xl">
+    {resume?.tagline}
+  </h2>
 </div>

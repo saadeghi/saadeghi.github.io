@@ -1,7 +1,7 @@
 <script>
 import { page } from "$app/stores"
 import { Head } from "svead"
-import { convertToSlug } from "$lib/functions"
+import { convertToSlug, formatDate } from "$lib/functions"
 import Header from "$lib/components/Header.svelte"
 
 export let data
@@ -12,16 +12,19 @@ export let data
 <Header resume={data.resume} />
 
 {#if data.projects && data.projects.length}
-  <div class="flex flex-col gap-16 lg:gap-6">
-    <div class="my-4 grid gap-2 md:grid-cols-2 lg:gap-10">
-      {#each data.projects as project}
-        <a href={`/projects/${convertToSlug(project.title)}/`} class="flex flex-col bg-slate-50 items-center gap-4 rounded-2xl py-20 text-slate-700 transition-all duration-700 hover:bg-slate-200">
-          <img src={project.thumb} alt={project.title} width="200" height="200" class="rounded-lg transition-all duration-300" style={`view-transition-name: img-${convertToSlug(project.title)}`} />
-          <div class="text-center text-sm" style={`view-transition-name: title-${convertToSlug(project.title)}`}>
-            {project.title}
-          </div>
-        </a>
-      {/each}
-    </div>
+  <div class="my-4 grid gap-16">
+    {#each data.projects as project}
+      <a href={`/projects/${convertToSlug(project.title)}/`} class="flex items-center gap-4 lg:gap-10 rounded-4xl transition-colors hover:bg-slate-50 p-4">
+        <img src={project.thumb} alt={project.title} width="100" height="100" class="rounded-2xl shrink-0"/>
+        {#if project.date}
+          <span class="text-black/50 tabular-nums font-extralight text-4xl shrink-0">
+            {formatDate(project.date, { year : "numeric"})}
+          </span>
+        {/if}
+        <span class="font-black text-4xl [text-wrap:balance]">
+          {project.title}
+        </span>
+      </a>
+    {/each}
   </div>
 {/if}

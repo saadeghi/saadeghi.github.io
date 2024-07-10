@@ -11,11 +11,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Setup bun
+        uses: oven-sh/setup-bun@v1.2.2
+
       - name: Install dependencies
-        run: npm ci
+        run: bun install
 
       - name: Build
-        run: npm run build
+        run: bun run build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4

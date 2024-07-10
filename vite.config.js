@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [
     sveltekit(),
     ViteRestart({
-      restart: ["src/data/*.yml"],
+      restart: ["src/data/*.{yml,md}"],
     }),
   ],
 })

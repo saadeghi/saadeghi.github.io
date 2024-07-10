@@ -1,4 +1,3 @@
-import { onNavigate } from "$app/navigation"
 import { marked } from "marked"
 
 export const convertToSlug = (input) => {
@@ -12,27 +11,9 @@ export const prettyUrl = (input) => {
   return input.replace(/(^\w+:|^)\/\//, "")
 }
 
-export const formatDate = (input) => {
+export const formatDate = (input, format = { year: "numeric", month: "long" }) => {
   const date = new Date(input)
-  return date.toLocaleDateString("en-US", {
-    year: "numeric",
-    month: "long",
-  })
-}
-
-export const preparePageTransition = () => {
-  onNavigate(async (navigation) => {
-    if (!document.startViewTransition) {
-      return
-    }
-
-    return new Promise((oldStateCaptureResolve) => {
-      document.startViewTransition(async () => {
-        oldStateCaptureResolve()
-        await navigation.complete
-      })
-    })
-  })
+  return date.toLocaleDateString("en-US", format)
 }
 
 export const md2html = (md, { inline = true } = {}) => {

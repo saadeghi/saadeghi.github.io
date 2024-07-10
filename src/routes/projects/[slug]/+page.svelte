@@ -10,13 +10,18 @@ export let data
 
 <div class="flex flex-col gap-12 lg:gap-20">
   <div>
-    <a href="/projects/">← Back</a>
+    <a href="/projects/" class="inline-flex gap-4 items-center">
+      <svg class="h-[1cap] w-auto" width="80" height="24" viewBox="0 0 80 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12.0224 0.0022583L0.0246582 12L12.0224 23.9978L14.5336 21.4308L6.8885 13.7857H80V10.2143H6.8885L14.5336 2.56922L12.0224 0.0022583Z" fill="currentColor"/>
+      </svg>
+      Back
+    </a>
   </div>
 
   <div class="flex flex-col items-center gap-10 lg:flex-row">
-    <img src={data.project.thumb} alt={`${data.project.title} by ${data.resume.title}`} width="150" height="150" class="rounded-xl" style={`view-transition-name: img-${convertToSlug(data.project.title)}`} />
+    <!-- <img src={data.project.thumb} alt={`${data.project.title} by ${data.resume.title}`} width="150" height="150" class="rounded-3xl" /> -->
     <div class="flex flex-col gap-4 text-center lg:text-left">
-      <h1 class="text-2xl font-bold md:text-4xl lg:text-6xl" style={`view-transition-name: title-${convertToSlug(data.project.title)}`}>
+      <h1 class="text-2xl md:text-4xl lg:text-6xl xl:text-7xl font-black">
         {data.project.title}
       </h1>
       <div class="flex flex-col items-center gap-4 lg:flex-row">
@@ -35,15 +40,15 @@ export let data
     </div>
   </div>
 
-  <div class="text-xl leading-snug md:text-3xl lg:text-6xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
+  <div class="text-xl leading-snug md:text-3xl lg:text-4xl lg:font-extralight lg:leading-tight [&_a]:border-b [&_a]:border-b-black">
     {@html data.project.content}
   </div>
 
   {#if data.project.photos && data.project.photos.length}
     <div class="grid grid-cols-1 gap-20">
       {#each data.project.photos as photo}
-        <div class="flex max-h-screen items-center justify-center rounded sm:bg-slate-900 sm:p-20">
-          <img src={photo} alt={`${data.project.title} by ${data.resume.title} - ${photo}`} class="max-h-[90vh] w-auto" />
+        <div class="flex max-h-screen items-center justify-center">
+          <img src={photo} alt={`${data.project.title} by ${data.resume.title} - ${photo}`} class="max-h-[90vh] w-auto rounded-3xl" />
         </div>
       {/each}
     </div>

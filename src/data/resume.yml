@@ -3,6 +3,8 @@ title: Pouya Saadeghi
 description: Pouya Saadeghi – front-end developer in Istanbul
 firstname: Pouya
 lastname: Saadeghi
+firstnameHint: /puːˈjɑː/
+lastnameHint: /sɑːˈdeqiː/
 tagline: Product designer & Front-end developer
 experiences:
   - date: Dec 2020 – Present
@@ -10,10 +12,10 @@ experiences:
     type: Part-time
     desc: "Created and actively maintaining open-source projects such as:"
     bullets:
-      - "[daisyui.com](https://daisyui.com/): the most popular, free and open-source Tailwind CSS component library, currently being used in 100,000+ open-source projects"
+      - "[daisyui.com](https://daisyui.com/): the most popular, free and open-source Tailwind CSS component library, currently being used in 250,000+ open-source projects"
+      - "[theme-change](https://github.com/saadeghi/theme-change): JavaScript theme management package"
       - "[lorem.space](https://github.com/manasky/lorem.space): placeholder image generator API"
       - "[svelte-countup](https://github.com/saadeghi/svelte-countup): component for Svelte.js"
-      - "[theme-change](https://github.com/saadeghi/theme-change): JavaScript theme management package"
   - date: Dec 2015 – Jun 2022
     role: Product designer, web developer
     place: "[ManaSky](https://manasky.com/)"

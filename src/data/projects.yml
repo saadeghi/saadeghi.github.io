@@ -1,9 +1,9 @@
 ---
 - title: daisyUI
-  thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.jpg
+  thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.png
   date: '2020-12-01'
   url: https://github.com/saadeghi/daisyui
-  content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 100,000 open-source projects
+  content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 250,000 open-source projects
   photos:
     - /projects/h1h3xN9FXL97OVPafQGAXbBtSmwSu2oI.png
   tags:
@@ -236,7 +236,7 @@
   - Photoshop
 - title: Iran TechHub
   thumb: /projects/HgvbVrfthET0WyVqURF8JCRE03Steg7V.jpg
-  date:
+  date: '2016-09-01'
   url: http://irantechhub.ir
   content: Official website for registering and valuation of innovative tech by Ministry of Science, Research and Technology of Iran
   photos:
@@ -505,7 +505,7 @@
   - Adobe Photoshop
 - title: Upal for Android
   thumb: /projects/Qp5whQZjX1A5WiHpYxI6PnWFfKyikwWF.jpg
-  date:
+  date: '2014-01-01'
   url: http://upal.ir
   content: |-
     [Upal](http://upal.ir) payment gateway, brings several money transfer features on your phone.
@@ -588,42 +588,9 @@
   - Adobe Illustrator
   - Sublime Text
   - Adobe Photoshop
-- title: Gilan Spinal Cord Injury Association
-  thumb: /projects/SYdXcQUSfaaxz4l0j4mVR9ruajAHWtvr.jpg
-  date: '2013-09-01'
-  content: |-
-    Official Wordpress Theme for GSCIA website
-    A local charity association to help cord injury patients, based on Gilan, Iran
-  photos:
-    - /projects/7w1VwFelxXo8mDSEQ6lNqO0aa3uSEh2g.jpg
-    - /projects/e4lJ0JSCEv1pu0xmO9i3n0PXzoyMse1U.jpg
-    - /projects/YWAS35V2lfoklwV7DgjrCZT93KIQq41I.jpg
-  tools:
-  - wordpress
-  - Sublime Text
-  - Adobe Photoshop
-- title: ErfanMix
-  thumb: /projects/xbqK5LyjQJAz9CadcnWROmxOQPsojS6E.jpg
-  date: '2012-11-01'
-  content: ErfanMix Logo
-  photos:
-    - /projects/vCZRdf3oLJfdITB6a7pDnkBPbrdda3mb.jpg
-    - /projects/KokgpxOklCWM7hXYgCZsCBaiKO8IHAwg.jpg
-    - /projects/DZnVL5ahmqaLJ0A7nEB2VgS4YQNMLpT1.jpg
-    - /projects/NiGdvXzlu2FAFbsDXltXTWEv4uvfgsUI.jpg
-    - /projects/rdD1iOvAHsrDpRPQRSWFh3OeiLraeVpX.jpg
-    - /projects/Wzwlz1KEPdsjHAeHBn4cdL3QtcWR1xOd.jpg
-  tags:
-  - Movie
-  - Mix
-  - Horse
-  - logo
-  - Logo design
-  tools:
-  - Adobe Photoshop
-- title: Ugig UI Concept
+- title: Ugig UI
   thumb: /projects/1UoFnwyisUAO9l0jXJJYkEwaL3r13ojX.jpg
-  date:
+  date: '2014-01-01'
   url: http://ugig.ir
   content: ''
   photos:
@@ -638,6 +605,20 @@
   - Adobe Illustrator
   - Adobe Photoshop
   - Balsamiq Mockups
+- title: Gilan Spinal Cord Injury Association
+  thumb: /projects/SYdXcQUSfaaxz4l0j4mVR9ruajAHWtvr.jpg
+  date: '2013-09-01'
+  content: |-
+    Official Wordpress Theme for GSCIA website
+    A local charity association to help cord injury patients, based on Gilan, Iran
+  photos:
+    - /projects/7w1VwFelxXo8mDSEQ6lNqO0aa3uSEh2g.jpg
+    - /projects/e4lJ0JSCEv1pu0xmO9i3n0PXzoyMse1U.jpg
+    - /projects/YWAS35V2lfoklwV7DgjrCZT93KIQq41I.jpg
+  tools:
+  - wordpress
+  - Sublime Text
+  - Adobe Photoshop
 - title: Ba-Mobl Furniture
   thumb: /projects/JIFT2psZiQIAIDuURdYARNjqirwR2S7q.jpg
   date: '2013-01-01'
@@ -663,22 +644,6 @@
   - Adobe Illustrator
   - Adobe Photoshop
   - Autodesk SketchBook
-- title: ITnews2
-  thumb: /projects/wVt0sjHn0SvAUa5wlzuSFAZgz50vLXgC.jpg
-  date: '2012-01-01'
-  content: Wordpress theme for ITnews2, the tech blog
-  photos:
-    - /projects/TpzsKSRi8Q9vyJBu6Bk2YCn16UZwNgNQ.jpg
-    - /projects/JedzqxYgkHLHwYCWvUirKvHRvScZHDyB.jpg
-    - /projects/w7KpVf4jWjkSuv4m3odPykw3vdiRiKVD.jpg
-    - /projects/mIjfcDPo4Qxz9hYnC2kKMudDOLcJPCqD.jpg
-    - /projects/gTAdtqrYNz2O6FbZy1iM2nRTURGHgCJN.jpg
-  tags:
-  - UI Design
-  - Wordpress theme
-  tools:
-  - wordpress
-  - Adobe Photoshop
 - title: Parsizabanan
   thumb: /projects/vsIkP43h4ghbxm4y6ZBFT3i35KsfmWsE.jpg
   date: '2013-03-01'
@@ -694,20 +659,6 @@
   tools:
   - brackets
   - Adobe Photoshop
-- title: P30mororgar
-  thumb: /projects/XMNou0DXXC6Toroh5GCxo9ajPcUtZSif.jpg
-  date: '2012-05-01'
-  url: http://p30mororgar.ir
-  content: P30mororgar wordpress theme
-  photos:
-    - /projects/cXe1B311aigwLHW8NLnWYTtsdKpj4wSj.jpg
-    - /projects/fhEQaRoE24i8nnpgBEPxX3ZLmQPmw4Zq.jpg
-  tags:
-  - Wordpress theme
-  - Wordpress
-  tools:
-  - Adobe Photoshop
-  - Adobe Dremaweaver
 - title: News/Review Blog
   thumb: /projects/L5ETCCDfCMFsiB7z635iZ4RvIqh83GJC.jpg
   date: '2013-03-01'
@@ -721,33 +672,6 @@
   - Notepad++
   - brackets
   - Adobe Photoshop
-- title: Green EXIM
-  thumb: /projects/wijFnPcFQ8TWp3tKKj38sgk90FUj4zj0.jpg
-  date: '2011-09-01'
-  content: Green EXIM Logo
-  photos:
-    - /projects/6WZb1vJmSJzNOkrW7foxgY213XYzPZRZ.jpg
-    - /projects/1TLdVMeX5TTphqF7pIR9eoSAvZSuzuYA.jpg
-    - /projects/LxtCO5BkoBN1ZMmfhKtQpwxe5MzxGINX.jpg
-    - /projects/5HzULpdmvY5hqoD5ATVfUBJH9OV97N0c.jpg
-    - /projects/OuEy9lLBQlwyoNlvnxCbR4WckfE57LYz.jpg
-  tags:
-  - Logo design
-  tools:
-  - Adobe Photoshop
-- title: eShop UI
-  thumb: /projects/xWFGaJ4WseZwqTxMPZ2onCgOa6xDayQu.jpg
-  date: '2011-07-01'
-  content: ''
-  photos:
-    - /projects/xohLDrWMa1ENzG7qjIixYOgOGeN7itjm.jpg
-    - /projects/Y0EkvplJlqWgNXhHyWBrO0z7xqowBSgQ.jpg
-    - /projects/RY4KR4iBXIyWQqrYH4wEA80e2hY6Tax5.jpg
-    - /projects/dn1DhQARZymO8L2dzIdLv3J33jLVWKcM.jpg
-  tools:
-  - Photoshop
-  - Notepad++
-  - Adobe Dreamweaver
 - title: NovinPort
   thumb: /projects/SHXKqK464is6kvBpsjWBvlXV9qmikEmQ.jpg
   date: '2013-03-01'
@@ -761,23 +685,10 @@
   - Sublime Text
   - wordpress
   - Adobe Photoshop
-- title: SEOpishro UI
-  thumb: /projects/Jrv7vOZmyqNEEoDoXCc4dxRLbKGRAU1h.jpg
-  date: '2012-04-01'
-  content: ''
-  photos:
-    - /projects/hScHr29KSlde4pz7cs5dHD4xHeGAg4Mi.jpg
-    - /projects/guFazwtgJCpPjuqI6WVzSnPwSoCQEPnt.jpg
-  tags:
-  - UI Design
-  tools:
-  - Adobe Photoshop
 - title: Charisma
   thumb: /projects/AkcluADKdx9jGtk11XBPVtv4y2fIAr7N.jpg
   date: '2013-01-01'
-  content: 'Charisma Wordpress Theme
-
-    '
+  content: 'Charisma Wordpress Theme'
   photos:
     - /projects/S2WlGUZakBzvvKTiXi1SZi86aWAwVcmG.jpg
     - /projects/VgWiM9ERDoM4pwDsDaKlp3lcl0LIMUbg.jpg
@@ -823,6 +734,66 @@
   tools:
   - brackets
   - Adobe Photoshop
+- title: ErfanMix
+  thumb: /projects/xbqK5LyjQJAz9CadcnWROmxOQPsojS6E.jpg
+  date: '2012-11-01'
+  content: ErfanMix Logo
+  photos:
+    - /projects/vCZRdf3oLJfdITB6a7pDnkBPbrdda3mb.jpg
+    - /projects/KokgpxOklCWM7hXYgCZsCBaiKO8IHAwg.jpg
+    - /projects/DZnVL5ahmqaLJ0A7nEB2VgS4YQNMLpT1.jpg
+    - /projects/NiGdvXzlu2FAFbsDXltXTWEv4uvfgsUI.jpg
+    - /projects/rdD1iOvAHsrDpRPQRSWFh3OeiLraeVpX.jpg
+    - /projects/Wzwlz1KEPdsjHAeHBn4cdL3QtcWR1xOd.jpg
+  tags:
+  - Movie
+  - Mix
+  - Horse
+  - logo
+  - Logo design
+  tools:
+  - Adobe Photoshop
+- title: ITnews2
+  thumb: /projects/wVt0sjHn0SvAUa5wlzuSFAZgz50vLXgC.jpg
+  date: '2012-01-01'
+  content: Wordpress theme for ITnews2, the tech blog
+  photos:
+    - /projects/TpzsKSRi8Q9vyJBu6Bk2YCn16UZwNgNQ.jpg
+    - /projects/JedzqxYgkHLHwYCWvUirKvHRvScZHDyB.jpg
+    - /projects/w7KpVf4jWjkSuv4m3odPykw3vdiRiKVD.jpg
+    - /projects/mIjfcDPo4Qxz9hYnC2kKMudDOLcJPCqD.jpg
+    - /projects/gTAdtqrYNz2O6FbZy1iM2nRTURGHgCJN.jpg
+  tags:
+  - UI Design
+  - Wordpress theme
+  tools:
+  - wordpress
+  - Adobe Photoshop
+- title: P30mororgar
+  thumb: /projects/XMNou0DXXC6Toroh5GCxo9ajPcUtZSif.jpg
+  date: '2012-05-01'
+  url: http://p30mororgar.ir
+  content: P30mororgar wordpress theme
+  photos:
+    - /projects/cXe1B311aigwLHW8NLnWYTtsdKpj4wSj.jpg
+    - /projects/fhEQaRoE24i8nnpgBEPxX3ZLmQPmw4Zq.jpg
+  tags:
+  - Wordpress theme
+  - Wordpress
+  tools:
+  - Adobe Photoshop
+  - Adobe Dremaweaver
+- title: SEOpishro UI
+  thumb: /projects/Jrv7vOZmyqNEEoDoXCc4dxRLbKGRAU1h.jpg
+  date: '2012-04-01'
+  content: ''
+  photos:
+    - /projects/hScHr29KSlde4pz7cs5dHD4xHeGAg4Mi.jpg
+    - /projects/guFazwtgJCpPjuqI6WVzSnPwSoCQEPnt.jpg
+  tags:
+  - UI Design
+  tools:
+  - Adobe Photoshop
 - title: PersiaGFX UI consept
   thumb: /projects/mt6UJUtwps6f3W61CnG4UGvQodRjIIVp.jpg
   date: '2012-02-01'
@@ -842,9 +813,36 @@
   - UI Design
   tools:
   - Adobe Photoshop
+- title: eShop UI
+  thumb: /projects/xWFGaJ4WseZwqTxMPZ2onCgOa6xDayQu.jpg
+  date: '2011-07-01'
+  content: ''
+  photos:
+    - /projects/xohLDrWMa1ENzG7qjIixYOgOGeN7itjm.jpg
+    - /projects/Y0EkvplJlqWgNXhHyWBrO0z7xqowBSgQ.jpg
+    - /projects/RY4KR4iBXIyWQqrYH4wEA80e2hY6Tax5.jpg
+    - /projects/dn1DhQARZymO8L2dzIdLv3J33jLVWKcM.jpg
+  tools:
+  - Photoshop
+  - Notepad++
+  - Adobe Dreamweaver
+- title: Green EXIM
+  thumb: /projects/wijFnPcFQ8TWp3tKKj38sgk90FUj4zj0.jpg
+  date: '2011-09-01'
+  content: Green EXIM Logo
+  photos:
+    - /projects/6WZb1vJmSJzNOkrW7foxgY213XYzPZRZ.jpg
+    - /projects/1TLdVMeX5TTphqF7pIR9eoSAvZSuzuYA.jpg
+    - /projects/LxtCO5BkoBN1ZMmfhKtQpwxe5MzxGINX.jpg
+    - /projects/5HzULpdmvY5hqoD5ATVfUBJH9OV97N0c.jpg
+    - /projects/OuEy9lLBQlwyoNlvnxCbR4WckfE57LYz.jpg
+  tags:
+  - Logo design
+  tools:
+  - Adobe Photoshop
 - title: Omid Iranian
   thumb: /projects/ZwtFH43pEwMhGl04XAiaWWl6cEgLLF6t.jpg
-  date: '2011-04-01'
+  date: '2010-12-01'
   content: ''
   photos:
     - /projects/u0LBcN3qRYof6IKGCa969SaURw5nj00f.jpg

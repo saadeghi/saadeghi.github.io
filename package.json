@@ -4,8 +4,7 @@
     "lint": "biome lint . --write",
     "dev": "vite dev --port 3000 --open",
     "build": "vite build",
-    "preview": "vite preview",
-    "prettier": "prettier --write '**/*.{js,svelte,md,json,html,css}'"
+    "preview": "vite build && vite preview --open"
   },
   "devDependencies": {
     "@biomejs/biome": "1.8.3",
