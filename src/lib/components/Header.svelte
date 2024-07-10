@@ -1,6 +1,6 @@
 <script>
-  import { page } from "$app/stores"
-  export let resume
+import { page } from "$app/stores"
+export let resume
 </script>
 
 <div class="flex gap-10 print:hidden">

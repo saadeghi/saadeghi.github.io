@@ -1,11 +1,8 @@
 <script>
-  import { page } from "$app/stores"
-  import { Head } from "svead"
-  import SvelteMarkdown from "svelte-markdown"
-
-  import Header from "$lib/components/Header.svelte"
-  import ExternalLink from "$lib/components/markdown/ExternalLink.svelte"
-  export let data
+import { page } from "$app/stores"
+import { Head } from "svead"
+import Header from "$lib/components/Header.svelte"
+export let data
 </script>
 
 <Head title={`${data.resume.title} – Resume`} description={`${data.resume.description} – Resume`} url={$page.url.toString()} />
@@ -34,7 +31,7 @@
           <span class="[&_a]:underline">
             {#if experience.place}
               at
-              <SvelteMarkdown isInline source={experience.place} renderers={{ link: ExternalLink }} />
+              {@html experience.place}
             {/if}
             {#if experience.location}
               ({experience.location})
@@ -55,7 +52,7 @@
           <ul class="mx-5 my-2 flex list-disc flex-col gap-1 text-sm">
             {#each experience.bullets as bullet}
               <li class="[&_a]:underline">
-                <SvelteMarkdown isInline source={bullet} renderers={{ link: ExternalLink }} />
+                {@html bullet}
               </li>
             {/each}
           </ul>
@@ -90,7 +87,7 @@
           </span>
         </div>
         <div class="print:text-right lg:text-right">
-          <span class="text-sm text-black/60" />
+          <span class="text-sm text-black/60"></span>
         </div>
         <div class="print:col-span-3 lg:col-span-3">
           <p>
@@ -137,7 +134,7 @@
         <ul class="mx-5 my-2 flex list-disc flex-col gap-1 text-sm">
           {#each data.resume.contacts as contact}
             <li class="[&_a]:underline">
-              <SvelteMarkdown isInline source={contact} renderers={{ link: ExternalLink }} />
+              {@html contact}
             </li>
           {/each}
         </ul>

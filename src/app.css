@@ -1,14 +1,10 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@theme {
+  --font-family-sans: "Mona Sans", ui-sans-serif, system-ui, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
 
 @layer base {
-  /* @font-face {
-    font-family: "Mona Sans";
-    font-weight: 200 900;
-    font-stretch: 75% 125%;
-    src: url(/fonts/Mona-Sans.woff2) format("woff2");
-  } */
   @font-face {
     font-family: "Mona Sans";
     font-weight: 200;

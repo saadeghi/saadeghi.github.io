@@ -1,8 +1,7 @@
 module.exports = {
   plugins: [
-    require("tailwindcss"),
-    require("autoprefixer"),
-    require("postcss-dropunusedvars"),
+    require("@tailwindcss/postcss"),
+    require("postcss-dropunusedvars")({ fix: true }),
     require("@fullhuman/postcss-purgecss")({
       content: ["./src/**/*.{svelte,html}"],
       extractors: [

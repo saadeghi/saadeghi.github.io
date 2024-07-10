@@ -1,10 +1,10 @@
 <script>
-  import { page } from "$app/stores"
-  import { Head } from "svead"
-  import { convertToSlug } from "$lib/functions"
-  import Header from "$lib/components/Header.svelte"
+import { page } from "$app/stores"
+import { Head } from "svead"
+import { convertToSlug } from "$lib/functions"
+import Header from "$lib/components/Header.svelte"
 
-  export let data
+export let data
 </script>
 
 <Head title={`${data.resume.title} – Projects`} description={`${data.resume.description} – Projects`} url={$page.url.toString()} />

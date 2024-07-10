@@ -1,31 +1,29 @@
 {
   "scripts": {
-    "dev": "vite dev --port 3000",
+    "format": "biome format --write .",
+    "lint": "biome lint . --write",
+    "dev": "vite dev --port 3000 --open",
     "build": "vite build",
     "preview": "vite preview",
     "prettier": "prettier --write '**/*.{js,svelte,md,json,html,css}'"
   },
   "devDependencies": {
-    "@fullhuman/postcss-purgecss": "^5.0.0",
-    "@sveltejs/adapter-static": "^2.0.3",
-    "@sveltejs/kit": "^1.24.0",
-    "autoprefixer": "^10.4.15",
-    "daisyui": "^3.6.4",
+    "@biomejs/biome": "^1.8.3",
+    "@fullhuman/postcss-purgecss": "^6.0.0",
+    "@sveltejs/adapter-static": "^3.0.2",
+    "@sveltejs/kit": "^2.5.18",
+    "@sveltejs/vite-plugin-svelte": "3.1.1",
+    "@tailwindcss/postcss": "^4.0.0-alpha.17",
     "js-yaml": "^4.1.0",
-    "postcss": "^8.4.29",
+    "marked": "^13.0.2",
+    "postcss": "^8.4.39",
     "postcss-dropunusedvars": "^2.2.1",
-    "postcss-uncss": "^0.17.0",
-    "prettier": "^3.0.3",
-    "prettier-plugin-svelte": "^3.0.3",
-    "prettier-plugin-tailwindcss": "^0.5.3",
     "svead": "^0.0.4",
-    "svelte": "^4.2.0",
-    "svelte-markdown": "^0.4.0",
-    "tailwindcss": "^3.3.3",
-    "vite": "^4.4.9"
+    "svelte": "5.0.0-next.178",
+    "tailwindcss": "^4.0.0-alpha.17",
+    "vite": "^5.3.3",
+    "vite-plugin-restart": "^0.4.1"
   },
-  "browserslist": [
-    "> 7%"
-  ],
+  "browserslist": ["> 7%"],
   "type": "module"
 }
