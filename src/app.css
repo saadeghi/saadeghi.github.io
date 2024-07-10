@@ -4,25 +4,23 @@
     "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-@layer base {
-  @font-face {
-    font-family: "Mona Sans";
-    font-weight: 200;
-    src: url(/fonts/Mona-Sans-UltraLightWide.woff2) format("woff2");
-  }
-  @font-face {
-    font-family: "Mona Sans";
-    font-weight: 400;
-    src: url(/fonts/Mona-Sans-Regular.woff2) format("woff2");
-  }
-  @font-face {
-    font-family: "Mona Sans";
-    font-weight: 700;
-    src: url(/fonts/Mona-Sans-Bold.woff2) format("woff2");
-  }
-  @font-face {
-    font-family: "Mona Sans";
-    font-weight: 900;
-    src: url(/fonts/Mona-Sans-BlackWide.woff2) format("woff2");
-  }
+@font-face {
+  font-family: "Mona Sans";
+  font-weight: 200;
+  src: url(/fonts/Mona-Sans-UltraLightWide.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Mona Sans";
+  font-weight: 400;
+  src: url(/fonts/Mona-Sans-Regular.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Mona Sans";
+  font-weight: 700;
+  src: url(/fonts/Mona-Sans-Bold.woff2) format("woff2");
+}
+@font-face {
+  font-family: "Mona Sans";
+  font-weight: 900;
+  src: url(/fonts/Mona-Sans-BlackWide.woff2) format("woff2");
 }
