@@ -1,0 +1,1 @@
+import{v as r,w as e,x as c,y as a,z as i,A as l,g as u,B as _}from"./index-client.DPNa-s5k.js";function g(){const s=c,n=s.l.u;n&&(n.b.length&&r(()=>{f(s),a(n.b)}),e(()=>{const o=i(()=>n.m.map(l));return()=>{for(const t of o)typeof t=="function"&&t()}}),n.a.length&&e(()=>{f(s),a(n.a)}))}function f(s){if(s.l.s)for(const n of s.l.s)u(n);_(s.s)}export{g as i};
