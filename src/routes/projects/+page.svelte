@@ -12,16 +12,14 @@ export let data
 <Header resume={data.resume} />
 
 {#if data.projects && data.projects.length}
-  <div class="my-4 grid gap-16">
+  <div class="my-4 grid gap-6 sm:gap-20">
     {#each data.projects as project}
-      <a href={`/projects/${convertToSlug(project.title)}/`} class="flex items-center gap-4 lg:gap-10 rounded-4xl transition-colors hover:bg-slate-50 p-4">
-        <img src={project.thumb} alt={project.title} width="100" height="100" class="rounded-2xl shrink-0"/>
-        {#if project.date}
-          <span class="text-black/50 tabular-nums font-extralight text-4xl shrink-0">
-            {formatDate(project.date, { year : "numeric"})}
-          </span>
-        {/if}
-        <span class="font-black text-4xl [text-wrap:balance]">
+      <a href={`/projects/${convertToSlug(project.title)}/`} class="grid items-center grid-cols-[80px_1fr] sm:grid-cols-[100px_5ch_1fr] gap-x-4 sm:gap-x-10 rounded-4xl transition-colors hover:bg-slate-50 p-4 text-[clamp(.8rem,4vw,2.5rem)]">
+        <img src={project.thumb} alt={project.title} width="100" height="100" class="rounded-2xl w-[80px] sm:w-[100px] max-sm:row-span-2"/>
+        <span class="text-black/50 tabular-nums max-sm:col-start-2 sm:font-extralight max-sm:self-end">
+          {formatDate(project.date, { year : "numeric"})}
+        </span>
+        <span class="sm:font-black [text-wrap:balance] max-sm:col-start-2 [word-break:break-word] max-sm:self-start text-[1.2em]">
           {project.title}
         </span>
       </a>
