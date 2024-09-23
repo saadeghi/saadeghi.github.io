@@ -3,7 +3,7 @@
   thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.png
   date: '2020-12-01'
   url: https://github.com/saadeghi/daisyui
-  content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 250,000 open-source projects
+  content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 280,000 open-source projects
   photos:
     - /projects/h1h3xN9FXL97OVPafQGAXbBtSmwSu2oI.png
   tags:
@@ -26,7 +26,6 @@
 - title: Atbox.io
   thumb: /projects/HPUlWrwNhUZaEDQH0UZTIXWDizmTO8k5.jpg
   date: '2014-04-01'
-  url: https://atbox.io
   content: Atbox was a resume builder and portfolio hosting startup, successfully provided services to more than 120K users in a 8-year period and finally retired in 2022 June.
   photos:
     - /projects/u8KCaZLWD0i9sG8JIlc7QhynoTBBDCiE.jpg
@@ -55,7 +54,6 @@
 - title: CryptoMeme.wtf
   thumb: /projects/9WbTYihknrR0SiIm3au1bsdxF1cnbEMB.jpg
   date: '2021-11-14'
-  url: https://cryptomeme.wtf
   content: Open-source meme generator based on current crypto price
   photos:
     - /projects/BReDoXT8fFUvxYroL1XdcTvR09x0TKdZ.jpg
@@ -73,7 +71,7 @@
   date: '2020-11-01'
   url: http://github.com/saadeghi/theme-change
   content: |-
-    A JavaScript package to handle CSS theming.  
+    A JavaScript package to handle CSS theming.
     Open source Node.js package with more than 80,000 NPM downloads
   photos:
     - /projects/8u0D13zR8xojpd2R3z1GwETxbc857Bob.jpg
@@ -199,7 +197,6 @@
 - title: Gametime
   thumb: /projects/eHhV64xyJhe3RbzefKbZOWIeQdMDNEXj.jpg
   date: '2016-12-01'
-  url: http://gametime.ir
   content: |-
     The Gametime.ir was an Android game review media that was launched in Iran Market with bellow features:
 
@@ -359,7 +356,7 @@
   date: '2014-12-22'
   url: http://play.google.com/store/apps/details?id=player.wikitroop.wikiseda
   content: |-
-    Wikiseda is the most popular Iranian music website.  
+    Wikiseda is the most popular Iranian music website.
     I designed the app UI, based on the original website color scheme. Wikisada app provides the largest and best collection of Persian Music. You can listen and watch anything you like. This application is designed to be all android device friendly, you can play, download or make your own playlist.
   photos:
     - /projects/89jo0ysUIOVfn7suXqXqGFaqPZl9meOB.jpg
@@ -506,9 +503,8 @@
 - title: Upal for Android
   thumb: /projects/Qp5whQZjX1A5WiHpYxI6PnWFfKyikwWF.jpg
   date: '2014-01-01'
-  url: http://upal.ir
   content: |-
-    [Upal](http://upal.ir) payment gateway, brings several money transfer features on your phone.
+    Upal payment gateway, brings several money transfer features on your phone.
     I designed the app UI, using Google Material Design guidelines
   photos:
     - /projects/dmiJnpFG2vJskJZJOLb33eyZ3LPE6G4i.png

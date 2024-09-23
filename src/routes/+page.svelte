@@ -1,14 +1,18 @@
 <script>
-import { page } from "$app/stores"
-import { Head } from "svead"
-import Header from "$lib/components/Header.svelte"
-export let data
+  import { page } from "$app/stores";
+  import { Head } from "svead";
+  import Header from "$lib/components/Header.svelte";
+  export let data;
 </script>
 
-<Head title={data.resume.title} description={data.resume.description} url={$page.url.toString()} />
+<Head
+  title={data.resume.title}
+  description={data.resume.description}
+  url={$page.url.toString()}
+/>
 
 <Header resume={data.resume} />
 
-<div class="leading-loose [&_a]:font-bold [&_a]:underline">
+<div class="[&_a]:underline">
   {@html data.about}
 </div>

@@ -1,26 +1,17 @@
 @import "tailwindcss";
+
 @theme {
-  --font-family-sans: "Mona Sans", ui-sans-serif, system-ui, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-family-sans: "JetBrains Mono", monospace;
 }
 
 @font-face {
-  font-family: "Mona Sans";
-  font-weight: 200;
-  src: url(/fonts/Mona-Sans-UltraLightWide.woff2) format("woff2");
-}
-@font-face {
-  font-family: "Mona Sans";
+  font-family: "JetBrains Mono";
   font-weight: 400;
-  src: url(/fonts/Mona-Sans-Regular.woff2) format("woff2");
+  src: url(/fonts/JetBrainsMono-Regular.woff2) format("woff2");
 }
+
 @font-face {
-  font-family: "Mona Sans";
+  font-family: "JetBrains Mono";
   font-weight: 700;
-  src: url(/fonts/Mona-Sans-Bold.woff2) format("woff2");
-}
-@font-face {
-  font-family: "Mona Sans";
-  font-weight: 900;
-  src: url(/fonts/Mona-Sans-BlackWide.woff2) format("woff2");
+  src: url(/fonts/JetBrainsMono-Bold.woff2) format("woff2");
 }
