@@ -4,10 +4,10 @@
 </script>
 
 <div
-  class="flex flex-col lg:flex-row print-flex-row justify-between lg:items-center print:mt-10 print:gap-2"
+  class="flex flex-col sm:flex-row gap-y-10 print-flex-row justify-between sm:items-center print:mt-10 print:gap-2"
 >
   <div>
-    <h1 class="text-4xl">
+    <h1 class="text-3xl">
       <span title={resume?.firstnameHint}>
         {resume?.firstname}
       </span>
@@ -20,18 +20,18 @@
     </h2>
   </div>
 
-  <nav class="flex gap-2 print:hidden">
+  <nav class="flex gap-6 print:hidden">
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/">About</a
+      class={`px-1 ${$page.url.pathname == "/" ? "text-black border-b-2" : "text-black/30"}`}
+      href="/">about</a
     >
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/resume/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/resume/">Resume</a
+      class={`px-1 ${$page.url.pathname == "/resume/" ? "text-black border-b-2" : "text-black/30"}`}
+      href="/resume/">cv</a
     >
     <a
-      class={`px-2 rounded ${$page.url.pathname == "/projects/" ? "bg-black text-white" : "bg-black/5 hover:bg-black/10"}`}
-      href="/projects/">Projects</a
+      class={`px-1 ${$page.url.pathname == "/projects/" ? "text-black border-b-2" : "text-black/30"}`}
+      href="/projects/">projects</a
     >
   </nav>
 </div>

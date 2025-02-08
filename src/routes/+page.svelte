@@ -13,6 +13,6 @@
 
 <Header resume={data.resume} />
 
-<div class="[&_a]:underline">
+<div class="[&_a]:underline max-w-2xl [&_p]:mb-4">
   {@html data.about}
 </div>

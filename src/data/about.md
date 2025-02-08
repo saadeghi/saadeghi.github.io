@@ -1,9 +1,6 @@
-Hello!
+<span title="/puːˈjɑː sɑːˈdeqiː/">**Pouya Saadeghi**</span> is the creator of [daisyUI](https://daisyui.com/), the popular CSS component library, currently used in more than 350000 open-source projects worldwide.
 
-My name is <span title="/puːˈjɑː/">**Pouya**</span>, I'm a web developer, living in İstanbul.
+For the past 16 years, Pouya had the chance to work and collaborate with remarkable teams and clients to create software. He was lucky to explore different aspects of software industry, he was involved in many of projects and startups, as designer, developer, consultant, or co-founder.
 
-I'm working on the popular, open-source UI library [daisyUI](https://daisyui.com/).
-
-Join me on [X](https://x.com/saadeghi) and see my projects on [GitHub](https://github.com/saadeghi)
-
-Or send me a mail [pouya.saadeghi@gmail.com](mailto:pouya.saadeghi@gmail.com), I would be happy to connect.
+Follow Pouya on [github.com/saadeghi](https://github.com/saadeghi), [x.com/saadeghi](https://x.com/saadeghi),  
+or send him an email at [pouya@saadeghi.com](mailto:pouya.saadeghi@gmail.com).

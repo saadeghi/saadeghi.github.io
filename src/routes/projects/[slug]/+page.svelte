@@ -35,7 +35,7 @@
   <div class="flex flex-col items-center gap-10 lg:flex-row">
     <!-- <img src={data.project.thumb} alt={`${data.project.title} by ${data.resume.title}`} width="150" height="150" class="rounded-3xl" /> -->
     <div class="flex flex-col gap-4 text-center lg:text-left">
-      <h1 class="font-bold text-4xl">
+      <h1 class="text-3xl">
         {data.project.title}
       </h1>
       <div class="flex flex-col items-center gap-4 lg:flex-row">
@@ -70,7 +70,7 @@
           <img
             src={photo}
             alt={`${data.project.title} by ${data.resume.title} - ${photo}`}
-            class="max-h-[90vh] w-auto rounded-3xl"
+            class="max-h-[90vh] w-auto"
           />
         </div>
       {/each}

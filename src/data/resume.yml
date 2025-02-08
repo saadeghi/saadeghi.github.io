@@ -5,14 +5,14 @@ firstname: Pouya
 lastname: Saadeghi
 firstnameHint: /puːˈjɑː/
 lastnameHint: /sɑːˈdeqiː/
-tagline: Product designer & Front-end developer
+tagline: product designer & developer
 experiences:
   - date: Dec 2020 – Present
     role: Open-source contributor
     type: Part-time
     desc: "Created and actively maintaining open-source projects such as:"
     bullets:
-      - "[daisyui.com](https://daisyui.com/): the most popular, free and open-source Tailwind CSS component library, currently being used in 250,000+ open-source projects"
+      - "[daisyui.com](https://daisyui.com/): the most popular, free and open-source Tailwind CSS component library, currently being used in 350,000+ open-source projects"
       - "[theme-change](https://github.com/saadeghi/theme-change): JavaScript theme management package"
       - "[lorem.space](https://github.com/manasky/lorem.space): placeholder image generator API"
       - "[svelte-countup](https://github.com/saadeghi/svelte-countup): component for Svelte.js"
