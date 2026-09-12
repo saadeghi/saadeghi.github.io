@@ -1,6 +1,6 @@
 ---
 - title: daisyUI
-  thumb: /projects/POlAEgi9zXAog2oU7bya3TufMq1D081J.png
+  thumb: https://img.daisyui.com/images/daisyui/mark-compressed.svg
   date: "2020-12-01"
   url: https://github.com/saadeghi/daisyui
   content: The most popular, free and open-source Tailwind CSS component library, currently being used in more than 500,000 open-source projects
@@ -11,7 +11,7 @@
     - Tailwind CSS
     - UI library
     - UI component
-    - DaisyUI
+    - daisyUI
     - CSS
   tools:
     - Tailwind CSS
